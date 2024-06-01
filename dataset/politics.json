@@ -1,0 +1,1745 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "COUNTRY_CODE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "INDEPENDENCE",
+          "type" : "DATE"
+        },
+        {
+          "name" : "WASDEPENDENT",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "DEPENDENT",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "GOVERNMENT",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "country_code" : "AL",
+          "independence" : "28-NOV-12",
+          "wasdependent" : "Ottoman Empire",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "GR",
+          "independence" : "01-JAN-29",
+          "wasdependent" : "Ottoman Empire",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "CY",
+          "independence" : "16-AUG-60",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MK",
+          "independence" : "17-SEP-91",
+          "wasdependent" : "Yugoslavia",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "SRB",
+          "independence" : "11-APR-92",
+          "wasdependent" : "Yugoslavia",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MNE",
+          "independence" : "03-JUN-06",
+          "wasdependent" : "SRB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "KOS",
+          "independence" : "17-FEB-08",
+          "wasdependent" : "SRB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "AND",
+          "independence" : "08-SEP-78",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "parliamentary democracy that retains as its chiefs of state a co-principality"
+        },
+        {
+          "country_code" : "F",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "E",
+          "independence" : "01-JAN-92",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "parliamentary monarchy"
+        },
+        {
+          "country_code" : "CZ",
+          "independence" : "01-JAN-93",
+          "wasdependent" : "Czechoslovakia",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "SK",
+          "independence" : "01-JAN-93",
+          "wasdependent" : "Czechoslovakia",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "D",
+          "independence" : "18-JAN-71",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "H",
+          "independence" : "18-NOV-18",
+          "wasdependent" : "Austria-Hungary",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "I",
+          "independence" : "17-MAR-61",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "CH",
+          "independence" : "01-JAN-91",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "formally a confederation but similar in structure to a federal republic"
+        },
+        {
+          "country_code" : "FL",
+          "independence" : "12-JUL-06",
+          "wasdependent" : "Holy Roman Empire",
+          "dependent" : "",
+          "government" : "hereditary constitutional monarchy"
+        },
+        {
+          "country_code" : "A",
+          "independence" : "12-NOV-18",
+          "wasdependent" : "Austria-Hungary",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "EST",
+          "independence" : "06-SEP-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "LV",
+          "independence" : "06-SEP-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "LT",
+          "independence" : "06-SEP-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "BY",
+          "independence" : "25-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic in name, although in fact a dictatorship"
+        },
+        {
+          "country_code" : "PL",
+          "independence" : "11-NOV-18",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "UA",
+          "independence" : "01-DEC-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "R",
+          "independence" : "24-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "federation"
+        },
+        {
+          "country_code" : "B",
+          "independence" : "04-OCT-30",
+          "wasdependent" : "NL",
+          "dependent" : "",
+          "government" : "federal parliamentary democracy under a constitutional monarchy"
+        },
+        {
+          "country_code" : "L",
+          "independence" : "24-NOV-90",
+          "wasdependent" : "NL",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "NL",
+          "independence" : "01-JAN-79",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "SLO",
+          "independence" : "25-JUN-91",
+          "wasdependent" : "Yugoslavia",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "HR",
+          "independence" : "25-JUN-91",
+          "wasdependent" : "Yugoslavia",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "BIH",
+          "independence" : "01-APR-92",
+          "wasdependent" : "Yugoslavia",
+          "dependent" : "",
+          "government" : "emerging federal democratic republic"
+        },
+        {
+          "country_code" : "BG",
+          "independence" : "22-SEP-08",
+          "wasdependent" : "Ottoman Empire",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "RO",
+          "independence" : "09-MAY-77",
+          "wasdependent" : "Ottoman Empire",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "DK",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "IS",
+          "independence" : "17-JUN-44",
+          "wasdependent" : "DK",
+          "dependent" : "",
+          "government" : "constitutional republic"
+        },
+        {
+          "country_code" : "FO",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "DK",
+          "government" : "part of the Danish realm"
+        },
+        {
+          "country_code" : "IRL",
+          "independence" : "06-DEC-21",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic, parliamentary democracy"
+        },
+        {
+          "country_code" : "SF",
+          "independence" : "06-DEC-17",
+          "wasdependent" : "R",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "N",
+          "independence" : "26-OCT-05",
+          "wasdependent" : "S",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "S",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "MC",
+          "independence" : "01-JAN-19",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "V",
+          "independence" : "11-FEB-29",
+          "wasdependent" : "I",
+          "dependent" : "",
+          "government" : "monarchical sacerdotal state"
+        },
+        {
+          "country_code" : "CEU",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "E",
+          "government" : "dependent territory of Spain"
+        },
+        {
+          "country_code" : "MEL",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "E",
+          "government" : "dependent territory of Spain"
+        },
+        {
+          "country_code" : "RSM",
+          "independence" : "01-JAN-01",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "M",
+          "independence" : "21-SEP-64",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "GBM",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "MD",
+          "independence" : "27-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "P",
+          "independence" : "25-JUL-39",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic; parliamentary democracy"
+        },
+        {
+          "country_code" : "SVA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "N",
+          "government" : "territory of Norway administered by the Ministry of Industry"
+        },
+        {
+          "country_code" : "GB",
+          "independence" : "01-JAN-01",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "constitutional monarchy and Commonwealth realm"
+        },
+        {
+          "country_code" : "GBZ",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "dependent territory of the UK"
+        },
+        {
+          "country_code" : "GBG",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "GBJ",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "ARM",
+          "independence" : "28-MAY-18",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "GE",
+          "independence" : "09-APR-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "AZ",
+          "independence" : "30-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "TR",
+          "independence" : "29-OCT-23",
+          "wasdependent" : "Ottoman Empire",
+          "dependent" : "",
+          "government" : "republican parliamentary democracy"
+        },
+        {
+          "country_code" : "RL",
+          "independence" : "22-NOV-43",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "WB",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : ""
+        },
+        {
+          "country_code" : "GAZA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : ""
+        },
+        {
+          "country_code" : "IL",
+          "independence" : "14-MAY-48",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "SYR",
+          "independence" : "17-APR-46",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic under an authoritarian regime"
+        },
+        {
+          "country_code" : "JOR",
+          "independence" : "25-MAY-46",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "SA",
+          "independence" : "23-SEP-32",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "monarchy"
+        },
+        {
+          "country_code" : "BRN",
+          "independence" : "15-AUG-71",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "Q",
+          "independence" : "03-SEP-71",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "emirate"
+        },
+        {
+          "country_code" : "UAE",
+          "independence" : "02-DEC-71",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "federation with specified powers delegated to the UAE federal government and other powers reserved to member emirates"
+        },
+        {
+          "country_code" : "OM",
+          "independence" : "01-JAN-50",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "monarchy"
+        },
+        {
+          "country_code" : "YE",
+          "independence" : "22-MAY-90",
+          "wasdependent" : "Merger of North/South Yemen",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "KWT",
+          "independence" : "19-JUN-61",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional emirate"
+        },
+        {
+          "country_code" : "IRQ",
+          "independence" : "03-OCT-32",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "IR",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "theocratic republic"
+        },
+        {
+          "country_code" : "AFG",
+          "independence" : "19-AUG-19",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "Islamic republic"
+        },
+        {
+          "country_code" : "TM",
+          "independence" : "27-OCT-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "authoritarian presidential rule"
+        },
+        {
+          "country_code" : "UZ",
+          "independence" : "31-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic; authoritarian presidential rule with little power outside the executive branch"
+        },
+        {
+          "country_code" : "TJ",
+          "independence" : "09-SEP-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "KG",
+          "independence" : "31-AUG-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "KZ",
+          "independence" : "16-DEC-91",
+          "wasdependent" : "Soviet Union",
+          "dependent" : "",
+          "government" : "republic; authoritarian presidential rule, with little power outside the executive branch"
+        },
+        {
+          "country_code" : "MNG",
+          "independence" : "13-MAR-21",
+          "wasdependent" : "CN",
+          "dependent" : "",
+          "government" : "parliamentary"
+        },
+        {
+          "country_code" : "MV",
+          "independence" : "26-JUL-65",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "PK",
+          "independence" : "14-AUG-47",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "IND",
+          "independence" : "15-AUG-47",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "NEP",
+          "independence" : "01-JAN-68",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "federal democratic republic"
+        },
+        {
+          "country_code" : "BHT",
+          "independence" : "08-AUG-49",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "BD",
+          "independence" : "16-DEC-71",
+          "wasdependent" : "PK",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "MYA",
+          "independence" : "04-JAN-48",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary government took power in March 2011"
+        },
+        {
+          "country_code" : "CL",
+          "independence" : "04-FEB-48",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "CN",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "Socialist republic"
+        },
+        {
+          "country_code" : "RC",
+          "independence" : "01-OCT-49",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "multiparty democracy"
+        },
+        {
+          "country_code" : "HK",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "CN",
+          "government" : "limited democracy"
+        },
+        {
+          "country_code" : "MACX",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "CN",
+          "government" : "limited democracy"
+        },
+        {
+          "country_code" : "KP",
+          "independence" : "15-AUG-45",
+          "wasdependent" : "J",
+          "dependent" : "",
+          "government" : "Communist state one-man dictatorship"
+        },
+        {
+          "country_code" : "ROK",
+          "independence" : "15-AUG-45",
+          "wasdependent" : "J",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "J",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "a parliamentary government with a constitutional monarchy"
+        },
+        {
+          "country_code" : "RP",
+          "independence" : "04-JUL-46",
+          "wasdependent" : "USA",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "VN",
+          "independence" : "02-SEP-45",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "Communist state"
+        },
+        {
+          "country_code" : "K",
+          "independence" : "09-NOV-49",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "multiparty democracy under a constitutional monarchy"
+        },
+        {
+          "country_code" : "LAO",
+          "independence" : "19-JUL-49",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "Communist state"
+        },
+        {
+          "country_code" : "THA",
+          "independence" : "01-JAN-38",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "MAL",
+          "independence" : "31-AUG-57",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "BRU",
+          "independence" : "01-JAN-84",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional sultanate (locally known as Malay Islamic Monarchy)"
+        },
+        {
+          "country_code" : "SGP",
+          "independence" : "09-AUG-65",
+          "wasdependent" : "MAL",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "RI",
+          "independence" : "17-AUG-45",
+          "wasdependent" : "NL",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "TL",
+          "independence" : "20-MAY-02",
+          "wasdependent" : "RI",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "PNG",
+          "independence" : "16-SEP-75",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "constitutional parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "SOL",
+          "independence" : "07-JUL-78",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "VU",
+          "independence" : "30-JUL-80",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "NCL",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "parliamentary representative democracy"
+        },
+        {
+          "country_code" : "AUS",
+          "independence" : "01-JAN-01",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "federal parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "XMAS",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "AUS",
+          "government" : "territory of Australia"
+        },
+        {
+          "country_code" : "COCO",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "AUS",
+          "government" : "territory of Australia"
+        },
+        {
+          "country_code" : "NORF",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "AUS",
+          "government" : "territory of Australia"
+        },
+        {
+          "country_code" : "NZ",
+          "independence" : "26-SEP-07",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "PAL",
+          "independence" : "01-OCT-94",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "constitutional government in free association with the US"
+        },
+        {
+          "country_code" : "NMIS",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "USA",
+          "government" : "commonwealth; self-governing with locally elected governor, lieutenant governor, and legislature"
+        },
+        {
+          "country_code" : "GUAM",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "USA",
+          "government" : "organized"
+        },
+        {
+          "country_code" : "FSM",
+          "independence" : "03-NOV-86",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "constitutional government in free association with the US"
+        },
+        {
+          "country_code" : "MH",
+          "independence" : "21-OCT-86",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "constitutional government in free association with the US"
+        },
+        {
+          "country_code" : "NAU",
+          "independence" : "31-JAN-68",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "KIR",
+          "independence" : "12-JUL-79",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "TUV",
+          "independence" : "01-OCT-78",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "TOK",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "NZ",
+          "government" : ""
+        },
+        {
+          "country_code" : "WS",
+          "independence" : "01-JAN-62",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "AMSA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "USA",
+          "government" : "unincorporated and unorganized territory of the US"
+        },
+        {
+          "country_code" : "WF",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "parliamentary representative democratic French overseas collectivity"
+        },
+        {
+          "country_code" : "FJI",
+          "independence" : "10-OCT-70",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "TO",
+          "independence" : "04-JUN-70",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "NIUE",
+          "independence" : "19-OCT-74",
+          "wasdependent" : "NZ",
+          "dependent" : "",
+          "government" : "self-governing parliamentary democracy"
+        },
+        {
+          "country_code" : "COOK",
+          "independence" : "04-AUG-65",
+          "wasdependent" : "NZ",
+          "dependent" : "",
+          "government" : "self-governing parliamentary democracy"
+        },
+        {
+          "country_code" : "FPOL",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "parliamentary representative democratic French overseas collectivity"
+        },
+        {
+          "country_code" : "PITC",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "ET",
+          "independence" : "28-FEB-22",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "LAR",
+          "independence" : "24-DEC-51",
+          "wasdependent" : "I",
+          "dependent" : "",
+          "government" : "operates under a transitional government"
+        },
+        {
+          "country_code" : "TN",
+          "independence" : "20-MAR-56",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "DZ",
+          "independence" : "05-JUL-62",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MA",
+          "independence" : "02-MAR-56",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "constitutional monarchy"
+        },
+        {
+          "country_code" : "WSA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "legal status of territory and question of sovereignty unresolved"
+        },
+        {
+          "country_code" : "RMM",
+          "independence" : "22-SEP-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RIM",
+          "independence" : "28-NOV-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "military junta"
+        },
+        {
+          "country_code" : "SN",
+          "independence" : "20-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "WAG",
+          "independence" : "18-FEB-65",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "GUB",
+          "independence" : "10-SEP-74",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RG",
+          "independence" : "02-OCT-58",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "SLE",
+          "independence" : "27-APR-61",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional democracy"
+        },
+        {
+          "country_code" : "LB",
+          "independence" : "26-JUL-47",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "BF",
+          "independence" : "05-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "CI",
+          "independence" : "07-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic; multiparty presidential regime established 1960"
+        },
+        {
+          "country_code" : "GH",
+          "independence" : "06-MAR-57",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional democracy"
+        },
+        {
+          "country_code" : "RT",
+          "independence" : "27-APR-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic under transition to multiparty democratic rule"
+        },
+        {
+          "country_code" : "BEN",
+          "independence" : "01-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "NGR",
+          "independence" : "01-OCT-60",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "RN",
+          "independence" : "03-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "TCH",
+          "independence" : "11-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "SUD",
+          "independence" : "01-JAN-56",
+          "wasdependent" : "ET",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "SSD",
+          "independence" : "09-JUL-11",
+          "wasdependent" : "SUD",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RCA",
+          "independence" : "13-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "CAM",
+          "independence" : "01-JAN-60",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic; multiparty presidential regime"
+        },
+        {
+          "country_code" : "GQ",
+          "independence" : "12-OCT-68",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "G",
+          "independence" : "17-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic; multiparty presidential regime"
+        },
+        {
+          "country_code" : "RCB",
+          "independence" : "15-AUG-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "CGO",
+          "independence" : "30-JUN-60",
+          "wasdependent" : "B",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "ANG",
+          "independence" : "11-NOV-75",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "republic; multiparty presidential regime"
+        },
+        {
+          "country_code" : "NAM",
+          "independence" : "21-MAR-90",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RB",
+          "independence" : "30-SEP-66",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary republic"
+        },
+        {
+          "country_code" : "RSA",
+          "independence" : "31-MAY-10",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "LS",
+          "independence" : "04-OCT-66",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary constitutional monarchy"
+        },
+        {
+          "country_code" : "SD",
+          "independence" : "06-SEP-68",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "monarchy"
+        },
+        {
+          "country_code" : "MOC",
+          "independence" : "25-JUN-75",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "ZW",
+          "independence" : "18-APR-80",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "Z",
+          "independence" : "24-OCT-64",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MW",
+          "independence" : "06-JUL-64",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "multiparty democracy"
+        },
+        {
+          "country_code" : "EAT",
+          "independence" : "26-APR-64",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "BI",
+          "independence" : "01-JUL-62",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RWA",
+          "independence" : "01-JUL-62",
+          "wasdependent" : "United Nations",
+          "dependent" : "",
+          "government" : "republic; presidential, multiparty system"
+        },
+        {
+          "country_code" : "EAU",
+          "independence" : "09-OCT-62",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "EAK",
+          "independence" : "12-DEC-63",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "SO",
+          "independence" : "01-JUL-60",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "in the process of building a federal parliamentary republic"
+        },
+        {
+          "country_code" : "DJI",
+          "independence" : "27-JUN-77",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "ETH",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "ER",
+          "independence" : "27-MAY-93",
+          "wasdependent" : "ETH",
+          "dependent" : "",
+          "government" : "transitional government"
+        },
+        {
+          "country_code" : "CV",
+          "independence" : "05-JUL-75",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "STP",
+          "independence" : "12-JUL-75",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "SY",
+          "independence" : "29-JUN-76",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "COM",
+          "independence" : "06-JUL-75",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MAYO",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "territorial collectivity of France"
+        },
+        {
+          "country_code" : "RM",
+          "independence" : "26-JUN-60",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "MS",
+          "independence" : "12-MAR-68",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "REUN",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas department of France"
+        },
+        {
+          "country_code" : "HELX",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "GL",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "DK",
+          "government" : "parliamentary democracy within a constitutional monarchy"
+        },
+        {
+          "country_code" : "SPMI",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "parliamentary representative democracy"
+        },
+        {
+          "country_code" : "BERM",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "parliamentary; self-governing territory"
+        },
+        {
+          "country_code" : "CDN",
+          "independence" : "01-JUL-67",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "a parliamentary democracy, a federation, and a constitutional monarchy"
+        },
+        {
+          "country_code" : "USA",
+          "independence" : "04-JUL-76",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitution-based federal republic; strong democratic tradition"
+        },
+        {
+          "country_code" : "MEX",
+          "independence" : "16-SEP-10",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "BZ",
+          "independence" : "21-SEP-81",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "GCA",
+          "independence" : "15-SEP-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "constitutional democratic republic"
+        },
+        {
+          "country_code" : "ES",
+          "independence" : "15-SEP-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "HN",
+          "independence" : "15-SEP-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "democratic constitutional republic"
+        },
+        {
+          "country_code" : "NIC",
+          "independence" : "15-SEP-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "CR",
+          "independence" : "15-SEP-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "democratic republic"
+        },
+        {
+          "country_code" : "PA",
+          "independence" : "03-NOV-03",
+          "wasdependent" : "CO",
+          "dependent" : "",
+          "government" : "constitutional democracy"
+        },
+        {
+          "country_code" : "BS",
+          "independence" : "10-JUL-73",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "TUCA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "CAYM",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "C",
+          "independence" : "20-MAY-02",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "Communist state"
+        },
+        {
+          "country_code" : "JA",
+          "independence" : "06-AUG-62",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "RH",
+          "independence" : "01-JAN-04",
+          "wasdependent" : "F",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "DOM",
+          "independence" : "27-FEB-44",
+          "wasdependent" : "RH",
+          "dependent" : "",
+          "government" : "democratic republic"
+        },
+        {
+          "country_code" : "PR",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "USA",
+          "government" : "commonwealth"
+        },
+        {
+          "country_code" : "VIRG",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "USA",
+          "government" : "organized"
+        },
+        {
+          "country_code" : "BVI",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "AXA",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "SMAR",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas collectivity of France"
+        },
+        {
+          "country_code" : "SX",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "NL",
+          "government" : "parliamentary"
+        },
+        {
+          "country_code" : "SBAR",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas collectivity of France"
+        },
+        {
+          "country_code" : "KN",
+          "independence" : "19-SEP-83",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "AG",
+          "independence" : "01-NOV-81",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "constitutional monarchy with a parliamentary system of government and a Commonwealth realm"
+        },
+        {
+          "country_code" : "MNTS",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        },
+        {
+          "country_code" : "GUAD",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas department of France"
+        },
+        {
+          "country_code" : "WD",
+          "independence" : "03-NOV-78",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "MART",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas department of France"
+        },
+        {
+          "country_code" : "WL",
+          "independence" : "22-FEB-79",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "BDS",
+          "independence" : "30-NOV-66",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "WV",
+          "independence" : "27-OCT-79",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "WG",
+          "independence" : "07-FEB-74",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy and a Commonwealth realm"
+        },
+        {
+          "country_code" : "TT",
+          "independence" : "31-AUG-62",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "NLB",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "NL",
+          "government" : "democracy"
+        },
+        {
+          "country_code" : "CUR",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "NL",
+          "government" : "parliamentary"
+        },
+        {
+          "country_code" : "ARU",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "NL",
+          "government" : "parliamentary democracy"
+        },
+        {
+          "country_code" : "YV",
+          "independence" : "05-JUL-11",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "GUY",
+          "independence" : "26-MAY-66",
+          "wasdependent" : "GB",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "SME",
+          "independence" : "25-NOV-75",
+          "wasdependent" : "NL",
+          "dependent" : "",
+          "government" : "constitutional democracy"
+        },
+        {
+          "country_code" : "FGU",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "F",
+          "government" : "overseas department of France"
+        },
+        {
+          "country_code" : "CO",
+          "independence" : "20-JUL-10",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic; executive branch dominates government structure"
+        },
+        {
+          "country_code" : "EC",
+          "independence" : "24-MAY-22",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "PE",
+          "independence" : "28-JUL-21",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "constitutional republic"
+        },
+        {
+          "country_code" : "BOL",
+          "independence" : "06-AUG-25",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic; Social Unitarian State"
+        },
+        {
+          "country_code" : "RCH",
+          "independence" : "18-SEP-10",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "RA",
+          "independence" : "09-JUL-16",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "republic"
+        },
+        {
+          "country_code" : "PY",
+          "independence" : "14-MAY-11",
+          "wasdependent" : "E",
+          "dependent" : "",
+          "government" : "constitutional republic"
+        },
+        {
+          "country_code" : "ROU",
+          "independence" : "25-AUG-28",
+          "wasdependent" : "BR",
+          "dependent" : "",
+          "government" : "constitutional republic"
+        },
+        {
+          "country_code" : "BR",
+          "independence" : "07-SEP-22",
+          "wasdependent" : "P",
+          "dependent" : "",
+          "government" : "federal republic"
+        },
+        {
+          "country_code" : "FALK",
+          "independence" : "",
+          "wasdependent" : "",
+          "dependent" : "GB",
+          "government" : "British Overseas Territories"
+        }
+      ]
+    }
+  ]
+}

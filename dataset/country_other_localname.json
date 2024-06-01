@@ -1,0 +1,1017 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "COUNTRY_CODE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "LOCALNAME",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "OTHERNAME",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "country_code" : "A",
+          "localname" : "Republik Österreich (die)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AFG",
+          "localname" : "جُمْهُورِئ إِسْلامِئ أَفْغَانِسْتَان",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AG",
+          "localname" : "Antigua and Barbuda",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AL",
+          "localname" : "Shqipëri",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AND",
+          "localname" : "Principat d'Andorra",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ARM",
+          "localname" : "Հայաստանի Հանրապետություն",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ARU",
+          "localname" : "Aruba",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AUS",
+          "localname" : "Australia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "AZ",
+          "localname" : "Azǝrbaycan Respublikası",
+          "othername" : ""
+        },
+        {
+          "country_code" : "B",
+          "localname" : "Koninkrijk België (het)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BD",
+          "localname" : "গণপ্রজাতন্ত্রী বাংলাদেশ",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BDS",
+          "localname" : "Barbados",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BEN",
+          "localname" : "la République du Bénin",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BF",
+          "localname" : "le Burkina Faso",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BG",
+          "localname" : "Република България",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BHT",
+          "localname" : "འབྲུག་གྷལ་ཁབ",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BI",
+          "localname" : "la République du Burundi",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BIH",
+          "localname" : "Bosna i Hercegovina",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BOL",
+          "localname" : "Estado Plurinacional de Bolivia (el)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BRN",
+          "localname" : "البحرين",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BRU",
+          "localname" : "Brunei Darussalam",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BS",
+          "localname" : "the Commonwealth of the Bahamas",
+          "othername" : ""
+        },
+        {
+          "country_code" : "BY",
+          "localname" : "Рэспубліка Беларусь",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CAM",
+          "localname" : "the Republic of Cameroon",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CDN",
+          "localname" : "Canada",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CGO",
+          "localname" : "la République démocratique du Congo",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CI",
+          "localname" : "la République de Côte d'Ivoire",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CL",
+          "localname" : "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CN",
+          "localname" : "中國",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CO",
+          "localname" : "la República de Colombia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "COM",
+          "localname" : "اتحاد جزر القمر",
+          "othername" : ""
+        },
+        {
+          "country_code" : "COOK",
+          "localname" : "Cook Islands",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CR",
+          "localname" : "la República de Costa Rica",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CUR",
+          "localname" : "Land Curaçao",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CV",
+          "localname" : "República de Cabo Verde (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CY",
+          "localname" : "Κυπριακή Δημοκρατία",
+          "othername" : ""
+        },
+        {
+          "country_code" : "CZ",
+          "localname" : "Česko",
+          "othername" : "Czechia"
+        },
+        {
+          "country_code" : "D",
+          "localname" : "Bundesrepublik Deutschland (die)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "DJI",
+          "localname" : "جمهورية جيبوتي",
+          "othername" : ""
+        },
+        {
+          "country_code" : "DK",
+          "localname" : "Kongeriget Danmark",
+          "othername" : ""
+        },
+        {
+          "country_code" : "DZ",
+          "localname" : "الجزائر",
+          "othername" : ""
+        },
+        {
+          "country_code" : "E",
+          "localname" : "el Reino de España",
+          "othername" : ""
+        },
+        {
+          "country_code" : "EAK",
+          "localname" : "the Republic of Kenya",
+          "othername" : ""
+        },
+        {
+          "country_code" : "EAT",
+          "localname" : "Jamhuri ya Muungano wa Tanzania",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ER",
+          "localname" : "إريتريا",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ES",
+          "localname" : "la República de El Salvador",
+          "othername" : ""
+        },
+        {
+          "country_code" : "EST",
+          "localname" : "Eesti Vabariik",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ET",
+          "localname" : "جمهورية مصر العربية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ETH",
+          "localname" : "የኢትዮጵያ ፈደራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+          "othername" : ""
+        },
+        {
+          "country_code" : "F",
+          "localname" : "la République française",
+          "othername" : ""
+        },
+        {
+          "country_code" : "FJI",
+          "localname" : "the Republic of the Fiji Islands",
+          "othername" : ""
+        },
+        {
+          "country_code" : "FL",
+          "localname" : "Fürstentum Liechtenstein (das)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "FO",
+          "localname" : "Føroyar",
+          "othername" : ""
+        },
+        {
+          "country_code" : "FPOL",
+          "localname" : "Pōrīnetia Farāni",
+          "othername" : ""
+        },
+        {
+          "country_code" : "FSM",
+          "localname" : "the Federated States of Micronesia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "G",
+          "localname" : "la République Gabonaise",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GAZA",
+          "localname" : "قطاع غزّة",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GB",
+          "localname" : "the United Kingdom of Great Britain and Northern Ireland",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GBG",
+          "localname" : "the Bailiwick of Guernsey",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GBJ",
+          "localname" : "the Bailiwick of Jersey",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GBM",
+          "localname" : "the Isle of Man",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GCA",
+          "localname" : "República de Guatemala (la)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GE",
+          "localname" : "საქართველო",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GH",
+          "localname" : "the Republic of Ghana",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GL",
+          "localname" : "Kalaallit Nunaat",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GQ",
+          "localname" : "la République de Guinée équatoriale",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GR",
+          "localname" : "Ελληνική Δημοκρατία",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GUB",
+          "localname" : "República da Guiné-Bissau (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "GUY",
+          "localname" : "the Republic of Guyana",
+          "othername" : ""
+        },
+        {
+          "country_code" : "H",
+          "localname" : "Magyar Köztársaság (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "HK",
+          "localname" : "香港",
+          "othername" : ""
+        },
+        {
+          "country_code" : "HN",
+          "localname" : "la República de Honduras",
+          "othername" : ""
+        },
+        {
+          "country_code" : "HR",
+          "localname" : "Republika Hrvatska",
+          "othername" : ""
+        },
+        {
+          "country_code" : "I",
+          "localname" : "Repubblica Italiana (la)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IL",
+          "localname" : "دولة إسرائيل",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IND",
+          "localname" : "the Republic of India",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IR",
+          "localname" : "جُمْهُورِئ إِسْلامِئ إِيرَان",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IRL",
+          "localname" : "Ireland",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IRQ",
+          "localname" : "جمهورية العراق",
+          "othername" : ""
+        },
+        {
+          "country_code" : "IS",
+          "localname" : "Lýðveldið Ísland",
+          "othername" : ""
+        },
+        {
+          "country_code" : "J",
+          "localname" : "日本",
+          "othername" : ""
+        },
+        {
+          "country_code" : "JA",
+          "localname" : "Jamaica",
+          "othername" : ""
+        },
+        {
+          "country_code" : "JOR",
+          "localname" : "المملكة الأردنية الهاشمية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "K",
+          "localname" : "ព្រះរាជាណាចក្រ កម្ពុជា",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KG",
+          "localname" : "Кыргыз Республикасы",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KIR",
+          "localname" : "the Republic of Kiribati",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KN",
+          "localname" : "Saint Kitts and Nevis",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KOS",
+          "localname" : "Republika e Kosovës",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KP",
+          "localname" : "조선 민주주의 인민 공화국",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KWT",
+          "localname" : "دولة الكويت",
+          "othername" : ""
+        },
+        {
+          "country_code" : "KZ",
+          "localname" : "Қазақстан Республикасы",
+          "othername" : ""
+        },
+        {
+          "country_code" : "L",
+          "localname" : "le Grand-Duché de Luxembourg",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LAO",
+          "localname" : "ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LAR",
+          "localname" : "لِيبِيَا",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LB",
+          "localname" : "the Republic of Liberia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LS",
+          "localname" : "the Kingdom of Lesotho",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LT",
+          "localname" : "Lietuvos Respublika",
+          "othername" : ""
+        },
+        {
+          "country_code" : "LV",
+          "localname" : "Latvijas Republika",
+          "othername" : ""
+        },
+        {
+          "country_code" : "M",
+          "localname" : "the Republic of Malta",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MA",
+          "localname" : "المملكة المغربية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MACX",
+          "localname" : "澳門",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MAL",
+          "localname" : "Malaysia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MC",
+          "localname" : "la Principauté de Monaco",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MD",
+          "localname" : "Republica Moldova",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MH",
+          "localname" : "The Republic of the Marshall Islands",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MK",
+          "localname" : "Република Cеверна Македонија",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MNE",
+          "localname" : "Црна Гора",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MNG",
+          "localname" : "Монгол улс",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MOC",
+          "localname" : "República de Moçambique (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MS",
+          "localname" : "The Republic of Mauritius",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MV",
+          "localname" : "ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MW",
+          "localname" : "Dziko la Malaŵi",
+          "othername" : ""
+        },
+        {
+          "country_code" : "MYA",
+          "localname" : "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+          "othername" : "Burma"
+        },
+        {
+          "country_code" : "N",
+          "localname" : "Norge",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NAM",
+          "localname" : "the Republic of Namibia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NAU",
+          "localname" : "the Republic of Nauru",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NEP",
+          "localname" : "संघीय लोकतान्त्रिक गणतन्त्र नेपाल",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NGR",
+          "localname" : "the Federal Republic of Nigeria",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NIC",
+          "localname" : "la República de Nicaragua",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NIUE",
+          "localname" : "Niuē",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NL",
+          "localname" : "Koninkrijk der Nederlanden (het)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NMIS",
+          "localname" : "Sankattan Siha Na Islas Mariånas",
+          "othername" : ""
+        },
+        {
+          "country_code" : "NZ",
+          "localname" : "New Zealand",
+          "othername" : ""
+        },
+        {
+          "country_code" : "OM",
+          "localname" : "سلطنة عمان",
+          "othername" : ""
+        },
+        {
+          "country_code" : "P",
+          "localname" : "República Portuguesa (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PA",
+          "localname" : "la República de Panamá",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PAL",
+          "localname" : "Beluu er a Belau",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PE",
+          "localname" : "Piruw Suyu",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PK",
+          "localname" : "the Islamic Republic of Pakistan",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PL",
+          "localname" : "Rzeczpospolita Polska",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PNG",
+          "localname" : "Papua New Guinea",
+          "othername" : ""
+        },
+        {
+          "country_code" : "PY",
+          "localname" : "Paraguay Retãn",
+          "othername" : ""
+        },
+        {
+          "country_code" : "Q",
+          "localname" : "دولة قطر",
+          "othername" : ""
+        },
+        {
+          "country_code" : "R",
+          "localname" : "Россия",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RB",
+          "localname" : "the Republic of Botswana",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RC",
+          "localname" : "中華民國",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RCA",
+          "localname" : "la République centrafricaine",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RCB",
+          "localname" : "la République du Congo",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RG",
+          "localname" : "la République de Guinée",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RH",
+          "localname" : "la République d' Haïti",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RI",
+          "localname" : "Republik Indonesia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RIM",
+          "localname" : "الجمهورية الإسلامية الموريتانية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RL",
+          "localname" : "الجمهورية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RM",
+          "localname" : "la République de Madagascar",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RMM",
+          "localname" : "la République du Mali",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RN",
+          "localname" : "la République du Niger",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RO",
+          "localname" : "România",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ROK",
+          "localname" : "대한 민국",
+          "othername" : ""
+        },
+        {
+          "country_code" : "ROU",
+          "localname" : "la República Oriental del Uruguay",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RP",
+          "localname" : "the Republic of the Philippines",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RSA",
+          "localname" : "Republiek van Suid-Afrika",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RSM",
+          "localname" : "Repubblica di San Marino (la)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "RWA",
+          "localname" : "the Republic of Rwanda",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SA",
+          "localname" : "المملكةة",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SBAR",
+          "localname" : "Collectivité de Saint-Barthélemy",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SD",
+          "localname" : "Kingdom of Eswatini",
+          "othername" : "Swaziland"
+        },
+        {
+          "country_code" : "SF",
+          "localname" : "Suomen tasavalta",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SGP",
+          "localname" : "新加坡共和国",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SK",
+          "localname" : "Slovensko",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SLE",
+          "localname" : "the Republic of Sierra Leone",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SLO",
+          "localname" : "Republika Slovenija",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SMAR",
+          "localname" : "Collectivité de Saint-Martin",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SME",
+          "localname" : "Republiek Suriname (de)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SO",
+          "localname" : "جُمْهُورِيَّة الصُّومَال",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SOL",
+          "localname" : "Solomon Islands",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SRB",
+          "localname" : "Република Србија",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SSD",
+          "localname" : "the Republic of South Sudan",
+          "othername" : ""
+        },
+        {
+          "country_code" : "STP",
+          "localname" : "República Democrática de São Tomé e Príncipe (a)",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SUD",
+          "localname" : "جمهورية السودان",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SVA",
+          "localname" : "Svalbard",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SX",
+          "localname" : "Sint Maarten",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SY",
+          "localname" : "Repiblik Sesel",
+          "othername" : ""
+        },
+        {
+          "country_code" : "SYR",
+          "localname" : "الجمهورية العربية السورية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TCH",
+          "localname" : "جمهورية تشاد",
+          "othername" : ""
+        },
+        {
+          "country_code" : "THA",
+          "localname" : "ราชอาณาจักรไทย",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TJ",
+          "localname" : "Љумњурии Тољикистон",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TL",
+          "localname" : "República Democrática de Timor-Leste",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TM",
+          "localname" : "Türkmenistan",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TN",
+          "localname" : "الجمهورية التونسية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TO",
+          "localname" : "the Kingdom of Tonga",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TOK",
+          "localname" : "Tokelau",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TR",
+          "localname" : "Türkiye Cumhuriyeti",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TT",
+          "localname" : "the Republic of Trinidad and Tobago",
+          "othername" : ""
+        },
+        {
+          "country_code" : "TUV",
+          "localname" : "Tuvalu",
+          "othername" : ""
+        },
+        {
+          "country_code" : "UA",
+          "localname" : "Украïна",
+          "othername" : ""
+        },
+        {
+          "country_code" : "UAE",
+          "localname" : "الإمارات العربية المتحدة",
+          "othername" : ""
+        },
+        {
+          "country_code" : "UZ",
+          "localname" : "Oʻzbekiston",
+          "othername" : ""
+        },
+        {
+          "country_code" : "V",
+          "localname" : "Status Civitatis Vaticanae",
+          "othername" : ""
+        },
+        {
+          "country_code" : "VN",
+          "localname" : "Việt Nam",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WAG",
+          "localname" : "The Republic of the Gambia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WB",
+          "localname" : "الضفة الغربية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WD",
+          "localname" : "the Commonwealth of Dominica",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WF",
+          "localname" : "Uvea mo Futuna",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WG",
+          "localname" : "Grenada",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WL",
+          "localname" : "Saint Lucia",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WS",
+          "localname" : "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WSA",
+          "localname" : "الصحراء الغربية",
+          "othername" : ""
+        },
+        {
+          "country_code" : "WV",
+          "localname" : "Saint Vincent and the Grenadines",
+          "othername" : ""
+        },
+        {
+          "country_code" : "YE",
+          "localname" : "الجمهورية اليمنية",
+          "othername" : ""
+        }
+      ]
+    }
+  ]
+}

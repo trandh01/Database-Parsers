@@ -1,0 +1,1872 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "PROVINCE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "LOCALNAME",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "province_name" : "Anatolikis Makedonias kai Thrakis",
+          "country" : "GR",
+          "localname" : "Ανατολικής Μακεδονίας και Θράκης"
+        },
+        {
+          "province_name" : "Attikis",
+          "country" : "GR",
+          "localname" : "Αττικής"
+        },
+        {
+          "province_name" : "Dytikis Elladas",
+          "country" : "GR",
+          "localname" : "Δυτικής Ελλάδας"
+        },
+        {
+          "province_name" : "Dytikis Makedonias",
+          "country" : "GR",
+          "localname" : "Δυτικής Μακεδονίας"
+        },
+        {
+          "province_name" : "Ionion Nison",
+          "country" : "GR",
+          "localname" : "Ιονίων Νήσων"
+        },
+        {
+          "province_name" : "Ipeiroy",
+          "country" : "GR",
+          "localname" : "Ηπείρου"
+        },
+        {
+          "province_name" : "Kentrikis Makedonias",
+          "country" : "GR",
+          "localname" : "Κεντρικής Μακεδονίας"
+        },
+        {
+          "province_name" : "Kritis",
+          "country" : "GR",
+          "localname" : "Κρήτης"
+        },
+        {
+          "province_name" : "Notioy Aigaioy",
+          "country" : "GR",
+          "localname" : "Νότιου Αιγαίου"
+        },
+        {
+          "province_name" : "Peloponnisos",
+          "country" : "GR",
+          "localname" : "Πελοποννήσου"
+        },
+        {
+          "province_name" : "Stereas Elladas",
+          "country" : "GR",
+          "localname" : "Στερεάς Ελλάδας"
+        },
+        {
+          "province_name" : "Thessalias",
+          "country" : "GR",
+          "localname" : "Θεσσαλίας"
+        },
+        {
+          "province_name" : "Boreioy Aigaioy",
+          "country" : "GR",
+          "localname" : "Βορείου Αιγαίου"
+        },
+        {
+          "province_name" : "Aghion Oros",
+          "country" : "GR",
+          "localname" : "Άγιο Όρος (Αυτοδιοίκητο)"
+        },
+        {
+          "province_name" : "Brest",
+          "country" : "BY",
+          "localname" : "Брестской"
+        },
+        {
+          "province_name" : "Vitebsk",
+          "country" : "BY",
+          "localname" : "Витебской"
+        },
+        {
+          "province_name" : "Gomel",
+          "country" : "BY",
+          "localname" : "Гомельской"
+        },
+        {
+          "province_name" : "Grodno",
+          "country" : "BY",
+          "localname" : "Гродненской"
+        },
+        {
+          "province_name" : "Mogilev",
+          "country" : "BY",
+          "localname" : "Могилевской"
+        },
+        {
+          "province_name" : "Minsk",
+          "country" : "BY",
+          "localname" : "Минской"
+        },
+        {
+          "province_name" : "Minsk City",
+          "country" : "BY",
+          "localname" : "Мінск"
+        },
+        {
+          "province_name" : "Cherkaska",
+          "country" : "UA",
+          "localname" : "Черкаська"
+        },
+        {
+          "province_name" : "Chernihivska",
+          "country" : "UA",
+          "localname" : "Чернігівська"
+        },
+        {
+          "province_name" : "Chernivetska",
+          "country" : "UA",
+          "localname" : "Чернівецька"
+        },
+        {
+          "province_name" : "Dnipropetrovska",
+          "country" : "UA",
+          "localname" : "Дніпропетровська"
+        },
+        {
+          "province_name" : "Donetska",
+          "country" : "UA",
+          "localname" : "Донецька"
+        },
+        {
+          "province_name" : "Ivano-Frankivska",
+          "country" : "UA",
+          "localname" : "Івано-Франківська"
+        },
+        {
+          "province_name" : "Kharkivska",
+          "country" : "UA",
+          "localname" : "Харківська"
+        },
+        {
+          "province_name" : "Khersonska",
+          "country" : "UA",
+          "localname" : "Херсонська"
+        },
+        {
+          "province_name" : "Khmelnytska",
+          "country" : "UA",
+          "localname" : "Хмельницька"
+        },
+        {
+          "province_name" : "Kyïvska",
+          "country" : "UA",
+          "localname" : "Київська"
+        },
+        {
+          "province_name" : "Kirovohradska",
+          "country" : "UA",
+          "localname" : "Кіровоградська"
+        },
+        {
+          "province_name" : "Luhanska",
+          "country" : "UA",
+          "localname" : "Луганська"
+        },
+        {
+          "province_name" : "Lvivska",
+          "country" : "UA",
+          "localname" : "Львівська"
+        },
+        {
+          "province_name" : "Mykolaïvska",
+          "country" : "UA",
+          "localname" : "Миколаївська"
+        },
+        {
+          "province_name" : "Odeska",
+          "country" : "UA",
+          "localname" : "Одеська"
+        },
+        {
+          "province_name" : "Poltavska",
+          "country" : "UA",
+          "localname" : "Полтавська"
+        },
+        {
+          "province_name" : "Rivnenska",
+          "country" : "UA",
+          "localname" : "Рівненська"
+        },
+        {
+          "province_name" : "Sumska",
+          "country" : "UA",
+          "localname" : "Сумська"
+        },
+        {
+          "province_name" : "Ternopilska",
+          "country" : "UA",
+          "localname" : "Тернопільська"
+        },
+        {
+          "province_name" : "Vinnytska",
+          "country" : "UA",
+          "localname" : "Вінницька"
+        },
+        {
+          "province_name" : "Volynska",
+          "country" : "UA",
+          "localname" : "Волинська"
+        },
+        {
+          "province_name" : "Zakarpatska",
+          "country" : "UA",
+          "localname" : "Закарпатська"
+        },
+        {
+          "province_name" : "Zaporizka",
+          "country" : "UA",
+          "localname" : "Запорізька"
+        },
+        {
+          "province_name" : "Zhytomyrska",
+          "country" : "UA",
+          "localname" : "Житомирська"
+        },
+        {
+          "province_name" : "Krym",
+          "country" : "UA",
+          "localname" : "Крим"
+        },
+        {
+          "province_name" : "Kyïv",
+          "country" : "UA",
+          "localname" : "Київ"
+        },
+        {
+          "province_name" : "Sevastopol",
+          "country" : "UA",
+          "localname" : "Севастополь"
+        },
+        {
+          "province_name" : "Karelia",
+          "country" : "R",
+          "localname" : "Карелия"
+        },
+        {
+          "province_name" : "Komi",
+          "country" : "R",
+          "localname" : "Коми"
+        },
+        {
+          "province_name" : "Arkhangelskaya",
+          "country" : "R",
+          "localname" : "Архангельская"
+        },
+        {
+          "province_name" : "Vologodskaya",
+          "country" : "R",
+          "localname" : "Вологодская"
+        },
+        {
+          "province_name" : "Murmanskaya",
+          "country" : "R",
+          "localname" : "Мурманская"
+        },
+        {
+          "province_name" : "Kaliningradskaya",
+          "country" : "R",
+          "localname" : "Калининградская"
+        },
+        {
+          "province_name" : "Sankt-Peterburg",
+          "country" : "R",
+          "localname" : "Санкт-Петербург"
+        },
+        {
+          "province_name" : "Leningradskaya",
+          "country" : "R",
+          "localname" : "Ленинградская"
+        },
+        {
+          "province_name" : "Novgorodskaya",
+          "country" : "R",
+          "localname" : "Новгородская"
+        },
+        {
+          "province_name" : "Pskovskaya",
+          "country" : "R",
+          "localname" : "Псковская"
+        },
+        {
+          "province_name" : "Bryanskaya",
+          "country" : "R",
+          "localname" : "Брянская"
+        },
+        {
+          "province_name" : "Vladimirskaya",
+          "country" : "R",
+          "localname" : "Владимирская"
+        },
+        {
+          "province_name" : "Ivanovskaya",
+          "country" : "R",
+          "localname" : "Ивановская"
+        },
+        {
+          "province_name" : "Kaluzhskaya",
+          "country" : "R",
+          "localname" : "Калужская"
+        },
+        {
+          "province_name" : "Kostromskaya",
+          "country" : "R",
+          "localname" : "Костромская"
+        },
+        {
+          "province_name" : "Moscow",
+          "country" : "R",
+          "localname" : "Москва"
+        },
+        {
+          "province_name" : "Moskovskaya",
+          "country" : "R",
+          "localname" : "Московская"
+        },
+        {
+          "province_name" : "Orlovskaya",
+          "country" : "R",
+          "localname" : "Орловская"
+        },
+        {
+          "province_name" : "Ryazanskaya",
+          "country" : "R",
+          "localname" : "Рязанская"
+        },
+        {
+          "province_name" : "Smolenskaya",
+          "country" : "R",
+          "localname" : "Смоленская"
+        },
+        {
+          "province_name" : "Tverskaya",
+          "country" : "R",
+          "localname" : "Тверская"
+        },
+        {
+          "province_name" : "Tulskaya",
+          "country" : "R",
+          "localname" : "Тульская"
+        },
+        {
+          "province_name" : "Yaroslavskaya",
+          "country" : "R",
+          "localname" : "Ярославская"
+        },
+        {
+          "province_name" : "Mariy-El",
+          "country" : "R",
+          "localname" : "Марий Эл"
+        },
+        {
+          "province_name" : "Mordoviya",
+          "country" : "R",
+          "localname" : "Мордовия"
+        },
+        {
+          "province_name" : "Chuvashia",
+          "country" : "R",
+          "localname" : "Чувашская"
+        },
+        {
+          "province_name" : "Kirovskaya",
+          "country" : "R",
+          "localname" : "Кировская"
+        },
+        {
+          "province_name" : "Nizhnii Novgorodskaya",
+          "country" : "R",
+          "localname" : "Нижегородская"
+        },
+        {
+          "province_name" : "Belgorodskaya",
+          "country" : "R",
+          "localname" : "Белгородская"
+        },
+        {
+          "province_name" : "Voronezhskaya",
+          "country" : "R",
+          "localname" : "Воронежская"
+        },
+        {
+          "province_name" : "Kurskaya",
+          "country" : "R",
+          "localname" : "Курская"
+        },
+        {
+          "province_name" : "Lipetskaya",
+          "country" : "R",
+          "localname" : "Липецкая"
+        },
+        {
+          "province_name" : "Tambovskaya",
+          "country" : "R",
+          "localname" : "Тамбовская"
+        },
+        {
+          "province_name" : "Kalmykiya",
+          "country" : "R",
+          "localname" : "Калмыкия"
+        },
+        {
+          "province_name" : "Tatarstan",
+          "country" : "R",
+          "localname" : "Татарстан"
+        },
+        {
+          "province_name" : "Astrakhanskaya",
+          "country" : "R",
+          "localname" : "Астраханская"
+        },
+        {
+          "province_name" : "Volgogradskaya",
+          "country" : "R",
+          "localname" : "Волгоградская"
+        },
+        {
+          "province_name" : "Penzenskaya",
+          "country" : "R",
+          "localname" : "Пензенская"
+        },
+        {
+          "province_name" : "Samarskaya",
+          "country" : "R",
+          "localname" : "Самарская"
+        },
+        {
+          "province_name" : "Saratovskaya",
+          "country" : "R",
+          "localname" : "Саратовская"
+        },
+        {
+          "province_name" : "Ulyanovskaya",
+          "country" : "R",
+          "localname" : "Ульяновская"
+        },
+        {
+          "province_name" : "Rostovskaya",
+          "country" : "R",
+          "localname" : "Ростовская"
+        },
+        {
+          "province_name" : "Bashkortostan",
+          "country" : "R",
+          "localname" : "Башкортостан"
+        },
+        {
+          "province_name" : "Udmurtskaya",
+          "country" : "R",
+          "localname" : "Удмуртская"
+        },
+        {
+          "province_name" : "Orenburgskaya",
+          "country" : "R",
+          "localname" : "Оренбургская"
+        },
+        {
+          "province_name" : "Permskij",
+          "country" : "R",
+          "localname" : "Пермский"
+        },
+        {
+          "province_name" : "Adygeya",
+          "country" : "R",
+          "localname" : "Адыгея"
+        },
+        {
+          "province_name" : "Dagestan",
+          "country" : "R",
+          "localname" : "Дагестан"
+        },
+        {
+          "province_name" : "Ingushskaya",
+          "country" : "R",
+          "localname" : "Ингушетия"
+        },
+        {
+          "province_name" : "Kabardino-Balkarskaya",
+          "country" : "R",
+          "localname" : "Кабардино-Балкарская"
+        },
+        {
+          "province_name" : "Karachayevo-Cherkesskaya",
+          "country" : "R",
+          "localname" : "Карачаево-Черкесская"
+        },
+        {
+          "province_name" : "North Ossetia-Alania",
+          "country" : "R",
+          "localname" : "Северная Осетия-Алания"
+        },
+        {
+          "province_name" : "Chechenskaya",
+          "country" : "R",
+          "localname" : "Чеченская"
+        },
+        {
+          "province_name" : "Krasnodarskiy",
+          "country" : "R",
+          "localname" : "Краснодарский край"
+        },
+        {
+          "province_name" : "Stavropolskiy",
+          "country" : "R",
+          "localname" : "Ставропольский"
+        },
+        {
+          "province_name" : "Kurganskaya",
+          "country" : "R",
+          "localname" : "Курганская"
+        },
+        {
+          "province_name" : "Sverdlovskaya",
+          "country" : "R",
+          "localname" : "Свердловская"
+        },
+        {
+          "province_name" : "Chelyabinskaya",
+          "country" : "R",
+          "localname" : "Челябинская"
+        },
+        {
+          "province_name" : "Altay",
+          "country" : "R",
+          "localname" : "Алтай"
+        },
+        {
+          "province_name" : "Altayskiy",
+          "country" : "R",
+          "localname" : "Алтайский"
+        },
+        {
+          "province_name" : "Kemerovskaya",
+          "country" : "R",
+          "localname" : "Кемеровская"
+        },
+        {
+          "province_name" : "Novosibirskaya",
+          "country" : "R",
+          "localname" : "Новосибирская"
+        },
+        {
+          "province_name" : "Omskaya",
+          "country" : "R",
+          "localname" : "Омская"
+        },
+        {
+          "province_name" : "Tomskaya",
+          "country" : "R",
+          "localname" : "Томская"
+        },
+        {
+          "province_name" : "Tyumenskaya",
+          "country" : "R",
+          "localname" : "Тюменская"
+        },
+        {
+          "province_name" : "Buryatiya",
+          "country" : "R",
+          "localname" : "Бурятия"
+        },
+        {
+          "province_name" : "Tyva",
+          "country" : "R",
+          "localname" : "Тыва"
+        },
+        {
+          "province_name" : "Khakasiya",
+          "country" : "R",
+          "localname" : "Хакасия"
+        },
+        {
+          "province_name" : "Krasnoyarsk",
+          "country" : "R",
+          "localname" : "Красноярский"
+        },
+        {
+          "province_name" : "Irkutskaya",
+          "country" : "R",
+          "localname" : "Иркутская"
+        },
+        {
+          "province_name" : "Zabaykalskiy",
+          "country" : "R",
+          "localname" : "Забайкальский"
+        },
+        {
+          "province_name" : "Sakha",
+          "country" : "R",
+          "localname" : "Саха (Якутия)"
+        },
+        {
+          "province_name" : "Jewish Autonomous Oblast",
+          "country" : "R",
+          "localname" : "Еврейская"
+        },
+        {
+          "province_name" : "Chukotka",
+          "country" : "R",
+          "localname" : "Чукотский"
+        },
+        {
+          "province_name" : "Primorskiy",
+          "country" : "R",
+          "localname" : "Приморский"
+        },
+        {
+          "province_name" : "Khabarovskiy",
+          "country" : "R",
+          "localname" : "Хабаровский"
+        },
+        {
+          "province_name" : "Amurskaya",
+          "country" : "R",
+          "localname" : "Амурская"
+        },
+        {
+          "province_name" : "Kamchatka",
+          "country" : "R",
+          "localname" : "Камчатский"
+        },
+        {
+          "province_name" : "Magadanskaya",
+          "country" : "R",
+          "localname" : "Магаданская"
+        },
+        {
+          "province_name" : "Sakhalin",
+          "country" : "R",
+          "localname" : "Сахалинская"
+        },
+        {
+          "province_name" : "Khanty Mansi ao",
+          "country" : "R",
+          "localname" : "Ханты-Мансийский автономный округ — Югра"
+        },
+        {
+          "province_name" : "Yamalo Nenets ao",
+          "country" : "R",
+          "localname" : "Ямало-Ненецкий автономный округ"
+        },
+        {
+          "province_name" : "Yerushalayim",
+          "country" : "IL",
+          "localname" : "מחוז ירושלים"
+        },
+        {
+          "province_name" : "HaMerkaz",
+          "country" : "IL",
+          "localname" : "המרכז"
+        },
+        {
+          "province_name" : "Hefa",
+          "country" : "IL",
+          "localname" : "מחוז חיפה"
+        },
+        {
+          "province_name" : "HaZafon",
+          "country" : "IL",
+          "localname" : "מחוז הצפון"
+        },
+        {
+          "province_name" : "Tel Aviv",
+          "country" : "IL",
+          "localname" : "מחוז תל אביב"
+        },
+        {
+          "province_name" : "HaDarom",
+          "country" : "IL",
+          "localname" : "מחוז הדרום"
+        },
+        {
+          "province_name" : "Al Hasakah",
+          "country" : "SYR",
+          "localname" : "الحسكة"
+        },
+        {
+          "province_name" : "Al Ladhiqiyah",
+          "country" : "SYR",
+          "localname" : "اللاذقية"
+        },
+        {
+          "province_name" : "Al Qunaytirah",
+          "country" : "SYR",
+          "localname" : "القنيطرة"
+        },
+        {
+          "province_name" : "Ar Raqqah",
+          "country" : "SYR",
+          "localname" : "الرقة"
+        },
+        {
+          "province_name" : "As Suwayda",
+          "country" : "SYR",
+          "localname" : "السويداء"
+        },
+        {
+          "province_name" : "Daraa",
+          "country" : "SYR",
+          "localname" : "درعا"
+        },
+        {
+          "province_name" : "Dayr az Zawr",
+          "country" : "SYR",
+          "localname" : "دير الزور"
+        },
+        {
+          "province_name" : "Dimashq",
+          "country" : "SYR",
+          "localname" : "مدينة دمشق"
+        },
+        {
+          "province_name" : "Halab",
+          "country" : "SYR",
+          "localname" : "حلب"
+        },
+        {
+          "province_name" : "Hamah",
+          "country" : "SYR",
+          "localname" : "حماة"
+        },
+        {
+          "province_name" : "Hims",
+          "country" : "SYR",
+          "localname" : "حمص"
+        },
+        {
+          "province_name" : "Idlib",
+          "country" : "SYR",
+          "localname" : "ادلب"
+        },
+        {
+          "province_name" : "Rif Dimashq",
+          "country" : "SYR",
+          "localname" : "ريف دمشق"
+        },
+        {
+          "province_name" : "Tartus",
+          "country" : "SYR",
+          "localname" : "طرطوس"
+        },
+        {
+          "province_name" : "Al-Hudud ash Shamaliyah",
+          "country" : "SA",
+          "localname" : "الحدود الشمالية"
+        },
+        {
+          "province_name" : "Al-Baha",
+          "country" : "SA",
+          "localname" : "ﺔﺣﺎﺒﻟﺍ"
+        },
+        {
+          "province_name" : "Al-Jouf",
+          "country" : "SA",
+          "localname" : "الجوف"
+        },
+        {
+          "province_name" : "Al-Madinah Al-Monawarah",
+          "country" : "SA",
+          "localname" : "المدينة المنورة"
+        },
+        {
+          "province_name" : "Al-Qaseem",
+          "country" : "SA",
+          "localname" : "القصيم"
+        },
+        {
+          "province_name" : "Aseer",
+          "country" : "SA",
+          "localname" : "عسير"
+        },
+        {
+          "province_name" : "Ash Sharqiyah",
+          "country" : "SA",
+          "localname" : "الشرقية"
+        },
+        {
+          "province_name" : "Hail",
+          "country" : "SA",
+          "localname" : "حائل"
+        },
+        {
+          "province_name" : "Jazan",
+          "country" : "SA",
+          "localname" : "جازان"
+        },
+        {
+          "province_name" : "Makkah Al-Mokarramah",
+          "country" : "SA",
+          "localname" : "مكة المكرمة"
+        },
+        {
+          "province_name" : "Najran",
+          "country" : "SA",
+          "localname" : "نجران"
+        },
+        {
+          "province_name" : "Tabouk",
+          "country" : "SA",
+          "localname" : "تبوك"
+        },
+        {
+          "province_name" : "al-Anbar",
+          "country" : "IRQ",
+          "localname" : "الانبار"
+        },
+        {
+          "province_name" : "Babylon",
+          "country" : "IRQ",
+          "localname" : "بابل"
+        },
+        {
+          "province_name" : "Baghdad",
+          "country" : "IRQ",
+          "localname" : "بغداد"
+        },
+        {
+          "province_name" : "Basrah",
+          "country" : "IRQ",
+          "localname" : "البصرة"
+        },
+        {
+          "province_name" : "Thi Qar",
+          "country" : "IRQ",
+          "localname" : "ذي قار"
+        },
+        {
+          "province_name" : "Diala",
+          "country" : "IRQ",
+          "localname" : "ديالى"
+        },
+        {
+          "province_name" : "Kerbela",
+          "country" : "IRQ",
+          "localname" : "كربلاء"
+        },
+        {
+          "province_name" : "Maysan",
+          "country" : "IRQ",
+          "localname" : "ميسان"
+        },
+        {
+          "province_name" : "al-Muthanna",
+          "country" : "IRQ",
+          "localname" : "المثنى"
+        },
+        {
+          "province_name" : "al-Najaf",
+          "country" : "IRQ",
+          "localname" : "النجف"
+        },
+        {
+          "province_name" : "Nineveh",
+          "country" : "IRQ",
+          "localname" : "نينوى"
+        },
+        {
+          "province_name" : "al-Qadisiya",
+          "country" : "IRQ",
+          "localname" : "القادسية"
+        },
+        {
+          "province_name" : "Salah al-Deen",
+          "country" : "IRQ",
+          "localname" : "صلاح الدين"
+        },
+        {
+          "province_name" : "Kirkuk",
+          "country" : "IRQ",
+          "localname" : "كركوك"
+        },
+        {
+          "province_name" : "Wasit",
+          "country" : "IRQ",
+          "localname" : "واسط"
+        },
+        {
+          "province_name" : "Duhouk",
+          "country" : "IRQ",
+          "localname" : "دهوك"
+        },
+        {
+          "province_name" : "Erbil",
+          "country" : "IRQ",
+          "localname" : "أربيل"
+        },
+        {
+          "province_name" : "West Azarbayejan",
+          "country" : "IR",
+          "localname" : "آذربايجان غربي"
+        },
+        {
+          "province_name" : "East Azarbayejan",
+          "country" : "IR",
+          "localname" : "آذربايجان شرقي"
+        },
+        {
+          "province_name" : "Kermanshah",
+          "country" : "IR",
+          "localname" : "كرمانشاه"
+        },
+        {
+          "province_name" : "Kohgiluyeh and Boyer-Ahmad",
+          "country" : "IR",
+          "localname" : "كهگيلويه وبويراحمد"
+        },
+        {
+          "province_name" : "Bushehr",
+          "country" : "IR",
+          "localname" : "بوشهر"
+        },
+        {
+          "province_name" : "Chaharmahal and Bakhtiyari",
+          "country" : "IR",
+          "localname" : "چهارمحال وبختيارئ"
+        },
+        {
+          "province_name" : "Esfahan",
+          "country" : "IR",
+          "localname" : "اصفهان"
+        },
+        {
+          "province_name" : "Fars",
+          "country" : "IR",
+          "localname" : "فارس"
+        },
+        {
+          "province_name" : "Gilan",
+          "country" : "IR",
+          "localname" : "گيلان"
+        },
+        {
+          "province_name" : "Hamedan",
+          "country" : "IR",
+          "localname" : "همدان"
+        },
+        {
+          "province_name" : "Hormozgan",
+          "country" : "IR",
+          "localname" : "هرمزگان"
+        },
+        {
+          "province_name" : "Ilam",
+          "country" : "IR",
+          "localname" : "ايلام"
+        },
+        {
+          "province_name" : "Kerman",
+          "country" : "IR",
+          "localname" : "كرمان"
+        },
+        {
+          "province_name" : "Khorasan-e-Razavi",
+          "country" : "IR",
+          "localname" : "خراسان رضوي"
+        },
+        {
+          "province_name" : "Khuzestan",
+          "country" : "IR",
+          "localname" : "خوزستان"
+        },
+        {
+          "province_name" : "Kurdestan",
+          "country" : "IR",
+          "localname" : "كردستان"
+        },
+        {
+          "province_name" : "Lorestan",
+          "country" : "IR",
+          "localname" : "لرستان"
+        },
+        {
+          "province_name" : "Markazi",
+          "country" : "IR",
+          "localname" : "مركزي"
+        },
+        {
+          "province_name" : "Mazandaran",
+          "country" : "IR",
+          "localname" : "مازندران"
+        },
+        {
+          "province_name" : "Semnan",
+          "country" : "IR",
+          "localname" : "سمنان"
+        },
+        {
+          "province_name" : "Sistan and Baluchestan",
+          "country" : "IR",
+          "localname" : "سيستان وبلوچستان"
+        },
+        {
+          "province_name" : "Tehran",
+          "country" : "IR",
+          "localname" : "تهران"
+        },
+        {
+          "province_name" : "Yazd",
+          "country" : "IR",
+          "localname" : "يزد"
+        },
+        {
+          "province_name" : "Zanjan",
+          "country" : "IR",
+          "localname" : "زنجان"
+        },
+        {
+          "province_name" : "Ardebil",
+          "country" : "IR",
+          "localname" : "اردبيل"
+        },
+        {
+          "province_name" : "Golestan",
+          "country" : "IR",
+          "localname" : "گلستان"
+        },
+        {
+          "province_name" : "Alborz",
+          "country" : "IR",
+          "localname" : "البرز"
+        },
+        {
+          "province_name" : "Qom",
+          "country" : "IR",
+          "localname" : "قم"
+        },
+        {
+          "province_name" : "Qazvin",
+          "country" : "IR",
+          "localname" : "قزوين"
+        },
+        {
+          "province_name" : "North Khorasan",
+          "country" : "IR",
+          "localname" : "خراسان شمالي"
+        },
+        {
+          "province_name" : "South Khorasan",
+          "country" : "IR",
+          "localname" : "خراسان جنوبي"
+        },
+        {
+          "province_name" : "Ashgabat",
+          "country" : "TM",
+          "localname" : "Aşgabat"
+        },
+        {
+          "province_name" : "Akhal",
+          "country" : "TM",
+          "localname" : "Ahal"
+        },
+        {
+          "province_name" : "Balkan",
+          "country" : "TM",
+          "localname" : "Balkan"
+        },
+        {
+          "province_name" : "Dashhowuz",
+          "country" : "TM",
+          "localname" : "Daşoguz"
+        },
+        {
+          "province_name" : "Lebap",
+          "country" : "TM",
+          "localname" : "Lebap"
+        },
+        {
+          "province_name" : "Mary",
+          "country" : "TM",
+          "localname" : "Mary"
+        },
+        {
+          "province_name" : "Regions of Republican Subordination",
+          "country" : "TJ",
+          "localname" : "Шањру ноњияњои тобеи љумњурї"
+        },
+        {
+          "province_name" : "Sughd",
+          "country" : "TJ",
+          "localname" : "Суѓд"
+        },
+        {
+          "province_name" : "Khatlon",
+          "country" : "TJ",
+          "localname" : "Хатлон"
+        },
+        {
+          "province_name" : "Gorno-Badakhshan",
+          "country" : "TJ",
+          "localname" : "Вилояти Мухтори Кўњистони Бадахшон"
+        },
+        {
+          "province_name" : "Dushanbe",
+          "country" : "TJ",
+          "localname" : "Душанбе"
+        },
+        {
+          "province_name" : "Almaty City",
+          "country" : "KZ",
+          "localname" : "Алматы"
+        },
+        {
+          "province_name" : "Almaty",
+          "country" : "KZ",
+          "localname" : "Алматы"
+        },
+        {
+          "province_name" : "Akmola",
+          "country" : "KZ",
+          "localname" : "Ақмола"
+        },
+        {
+          "province_name" : "Aktobe",
+          "country" : "KZ",
+          "localname" : "Ақтөбе"
+        },
+        {
+          "province_name" : "Atyrau",
+          "country" : "KZ",
+          "localname" : "Атырау"
+        },
+        {
+          "province_name" : "West Kazakhstan",
+          "country" : "KZ",
+          "localname" : "Батыс Қазақстан"
+        },
+        {
+          "province_name" : "Mangistau",
+          "country" : "KZ",
+          "localname" : "Маңғыстау"
+        },
+        {
+          "province_name" : "South-Kazakhstan",
+          "country" : "KZ",
+          "localname" : "Оңтүстік Қазақстан"
+        },
+        {
+          "province_name" : "Pavlodar",
+          "country" : "KZ",
+          "localname" : "Павлодар"
+        },
+        {
+          "province_name" : "Karaganda",
+          "country" : "KZ",
+          "localname" : "Қарағанды"
+        },
+        {
+          "province_name" : "Kostanai",
+          "country" : "KZ",
+          "localname" : "Қостанай"
+        },
+        {
+          "province_name" : "Kyzylorda",
+          "country" : "KZ",
+          "localname" : "Қызылорда"
+        },
+        {
+          "province_name" : "East-Kazakhstan",
+          "country" : "KZ",
+          "localname" : "Шығыс Қазақстан"
+        },
+        {
+          "province_name" : "North-Kazakhstan",
+          "country" : "KZ",
+          "localname" : "Солтүстік Қазақстан"
+        },
+        {
+          "province_name" : "Zhambyl",
+          "country" : "KZ",
+          "localname" : "Жамбыл"
+        },
+        {
+          "province_name" : "Baikonur",
+          "country" : "KZ",
+          "localname" : "Байкоңыр"
+        },
+        {
+          "province_name" : "Astana",
+          "country" : "KZ",
+          "localname" : "Астана"
+        },
+        {
+          "province_name" : "Barisal",
+          "country" : "BD",
+          "localname" : "বরিশাল"
+        },
+        {
+          "province_name" : "Chittagong",
+          "country" : "BD",
+          "localname" : "চট্টগ্রাম"
+        },
+        {
+          "province_name" : "Dhaka",
+          "country" : "BD",
+          "localname" : "ঢাকা"
+        },
+        {
+          "province_name" : "Khulna",
+          "country" : "BD",
+          "localname" : "খুলনা"
+        },
+        {
+          "province_name" : "Rajshahi",
+          "country" : "BD",
+          "localname" : "রাজশাহী"
+        },
+        {
+          "province_name" : "Rangpur",
+          "country" : "BD",
+          "localname" : "রংপুর"
+        },
+        {
+          "province_name" : "Sylhet",
+          "country" : "BD",
+          "localname" : "সিলেট"
+        },
+        {
+          "province_name" : "Mymensingh",
+          "country" : "BD",
+          "localname" : "ময়মনসিংহ বিভাগ"
+        },
+        {
+          "province_name" : "Ayeyarwady",
+          "country" : "MYA",
+          "localname" : "ဧရာဝတီတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Magwe",
+          "country" : "MYA",
+          "localname" : "မကွေးတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Mandalay",
+          "country" : "MYA",
+          "localname" : "မန္တလေးတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Bago",
+          "country" : "MYA",
+          "localname" : "ပဲခူးတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Yangon",
+          "country" : "MYA",
+          "localname" : "ရန်ကုန်တိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Sagaing",
+          "country" : "MYA",
+          "localname" : "စစ်ကိုင်းတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Tanintharyi",
+          "country" : "MYA",
+          "localname" : "တနင်္သာရီတိုင်းဒေသကြီး"
+        },
+        {
+          "province_name" : "Chin",
+          "country" : "MYA",
+          "localname" : "ချင်းပြည်နယ်"
+        },
+        {
+          "province_name" : "Kachin",
+          "country" : "MYA",
+          "localname" : "ကချင်ပြည်နယ်"
+        },
+        {
+          "province_name" : "Kayin",
+          "country" : "MYA",
+          "localname" : "ကရင်ပြည်နယ်"
+        },
+        {
+          "province_name" : "Kayah",
+          "country" : "MYA",
+          "localname" : "ကယားပြည်နယ်"
+        },
+        {
+          "province_name" : "Mon",
+          "country" : "MYA",
+          "localname" : "မွန်ပြည်နယ်"
+        },
+        {
+          "province_name" : "Rakhine",
+          "country" : "MYA",
+          "localname" : "ရခိုင်ပြည်နယ်"
+        },
+        {
+          "province_name" : "Shan",
+          "country" : "MYA",
+          "localname" : "ရှမ်းပြည်နယ်"
+        },
+        {
+          "province_name" : "Nay Pyi Taw",
+          "country" : "MYA",
+          "localname" : "နေပြည်တော် ပြည်တောင်စုနယ်မြေ"
+        },
+        {
+          "province_name" : "Anhui",
+          "country" : "CN",
+          "localname" : "安徽"
+        },
+        {
+          "province_name" : "Fujian",
+          "country" : "CN",
+          "localname" : "福建"
+        },
+        {
+          "province_name" : "Gansu",
+          "country" : "CN",
+          "localname" : "甘肃"
+        },
+        {
+          "province_name" : "Guangdong",
+          "country" : "CN",
+          "localname" : "广东"
+        },
+        {
+          "province_name" : "Guizhou",
+          "country" : "CN",
+          "localname" : "贵州"
+        },
+        {
+          "province_name" : "Hainan",
+          "country" : "CN",
+          "localname" : "海南"
+        },
+        {
+          "province_name" : "Hebei",
+          "country" : "CN",
+          "localname" : "河北"
+        },
+        {
+          "province_name" : "Heilongjiang",
+          "country" : "CN",
+          "localname" : "黑龙江"
+        },
+        {
+          "province_name" : "Henan",
+          "country" : "CN",
+          "localname" : "河南"
+        },
+        {
+          "province_name" : "Hubei",
+          "country" : "CN",
+          "localname" : "湖北"
+        },
+        {
+          "province_name" : "Hunan",
+          "country" : "CN",
+          "localname" : "湖南"
+        },
+        {
+          "province_name" : "Jiangsu",
+          "country" : "CN",
+          "localname" : "江苏"
+        },
+        {
+          "province_name" : "Jiangxi",
+          "country" : "CN",
+          "localname" : "江西"
+        },
+        {
+          "province_name" : "Jilin",
+          "country" : "CN",
+          "localname" : "吉林"
+        },
+        {
+          "province_name" : "Liaoning",
+          "country" : "CN",
+          "localname" : "辽宁"
+        },
+        {
+          "province_name" : "Qinghai",
+          "country" : "CN",
+          "localname" : "青海"
+        },
+        {
+          "province_name" : "Shaanxi",
+          "country" : "CN",
+          "localname" : "陕西"
+        },
+        {
+          "province_name" : "Shandong",
+          "country" : "CN",
+          "localname" : "山东"
+        },
+        {
+          "province_name" : "Shanxi",
+          "country" : "CN",
+          "localname" : "山西"
+        },
+        {
+          "province_name" : "Sichuan",
+          "country" : "CN",
+          "localname" : "四川"
+        },
+        {
+          "province_name" : "Yunnan",
+          "country" : "CN",
+          "localname" : "云南"
+        },
+        {
+          "province_name" : "Zhejiang",
+          "country" : "CN",
+          "localname" : "浙江"
+        },
+        {
+          "province_name" : "Guangxi",
+          "country" : "CN",
+          "localname" : "广西"
+        },
+        {
+          "province_name" : "Nei Mongol",
+          "country" : "CN",
+          "localname" : "内蒙古"
+        },
+        {
+          "province_name" : "Ningxia",
+          "country" : "CN",
+          "localname" : "宁夏"
+        },
+        {
+          "province_name" : "Xinjiang",
+          "country" : "CN",
+          "localname" : "新疆维吾尔"
+        },
+        {
+          "province_name" : "Xizang",
+          "country" : "CN",
+          "localname" : "西藏"
+        },
+        {
+          "province_name" : "Beijing",
+          "country" : "CN",
+          "localname" : "北京"
+        },
+        {
+          "province_name" : "Shanghai",
+          "country" : "CN",
+          "localname" : "上海"
+        },
+        {
+          "province_name" : "Tianjin",
+          "country" : "CN",
+          "localname" : "天津"
+        },
+        {
+          "province_name" : "Chongqing",
+          "country" : "CN",
+          "localname" : "重庆"
+        },
+        {
+          "province_name" : "Hokkaido",
+          "country" : "J",
+          "localname" : "北海道"
+        },
+        {
+          "province_name" : "Aomori",
+          "country" : "J",
+          "localname" : "青森県"
+        },
+        {
+          "province_name" : "Iwate",
+          "country" : "J",
+          "localname" : "岩手県"
+        },
+        {
+          "province_name" : "Miyagi",
+          "country" : "J",
+          "localname" : "宮城県"
+        },
+        {
+          "province_name" : "Akita",
+          "country" : "J",
+          "localname" : "秋田県"
+        },
+        {
+          "province_name" : "Yamagata",
+          "country" : "J",
+          "localname" : "山形県"
+        },
+        {
+          "province_name" : "Fukushima",
+          "country" : "J",
+          "localname" : "福島県"
+        },
+        {
+          "province_name" : "Ibaraki",
+          "country" : "J",
+          "localname" : "茨城県"
+        },
+        {
+          "province_name" : "Tochigi",
+          "country" : "J",
+          "localname" : "栃木県"
+        },
+        {
+          "province_name" : "Gumma",
+          "country" : "J",
+          "localname" : "群馬県"
+        },
+        {
+          "province_name" : "Saitama",
+          "country" : "J",
+          "localname" : "埼玉県"
+        },
+        {
+          "province_name" : "Chiba",
+          "country" : "J",
+          "localname" : "千葉県"
+        },
+        {
+          "province_name" : "Tokyo",
+          "country" : "J",
+          "localname" : "東京都"
+        },
+        {
+          "province_name" : "Kanagawa",
+          "country" : "J",
+          "localname" : "神奈川県"
+        },
+        {
+          "province_name" : "Niigata",
+          "country" : "J",
+          "localname" : "新潟県"
+        },
+        {
+          "province_name" : "Toyama",
+          "country" : "J",
+          "localname" : "富山県"
+        },
+        {
+          "province_name" : "Ishikawa",
+          "country" : "J",
+          "localname" : "石川県"
+        },
+        {
+          "province_name" : "Fukui",
+          "country" : "J",
+          "localname" : "福井県"
+        },
+        {
+          "province_name" : "Yamanashi",
+          "country" : "J",
+          "localname" : "山梨県"
+        },
+        {
+          "province_name" : "Nagano",
+          "country" : "J",
+          "localname" : "長野県"
+        },
+        {
+          "province_name" : "Gifu",
+          "country" : "J",
+          "localname" : "岐阜県"
+        },
+        {
+          "province_name" : "Shizuoka",
+          "country" : "J",
+          "localname" : "静岡県"
+        },
+        {
+          "province_name" : "Aichi",
+          "country" : "J",
+          "localname" : "愛知県"
+        },
+        {
+          "province_name" : "Mie",
+          "country" : "J",
+          "localname" : "三重県"
+        },
+        {
+          "province_name" : "Shiga",
+          "country" : "J",
+          "localname" : "滋賀県"
+        },
+        {
+          "province_name" : "Kyoto",
+          "country" : "J",
+          "localname" : "京都府"
+        },
+        {
+          "province_name" : "Osaka",
+          "country" : "J",
+          "localname" : "大阪府"
+        },
+        {
+          "province_name" : "Hyogo",
+          "country" : "J",
+          "localname" : "兵庫県"
+        },
+        {
+          "province_name" : "Nara",
+          "country" : "J",
+          "localname" : "奈良県"
+        },
+        {
+          "province_name" : "Wakayama",
+          "country" : "J",
+          "localname" : "和歌山県"
+        },
+        {
+          "province_name" : "Tottori",
+          "country" : "J",
+          "localname" : "鳥取県"
+        },
+        {
+          "province_name" : "Shimane",
+          "country" : "J",
+          "localname" : "島根県"
+        },
+        {
+          "province_name" : "Okayama",
+          "country" : "J",
+          "localname" : "岡山県"
+        },
+        {
+          "province_name" : "Hiroshima",
+          "country" : "J",
+          "localname" : "広島県"
+        },
+        {
+          "province_name" : "Yamaguchi",
+          "country" : "J",
+          "localname" : "山口県"
+        },
+        {
+          "province_name" : "Tokushima",
+          "country" : "J",
+          "localname" : "徳島県"
+        },
+        {
+          "province_name" : "Kagawa",
+          "country" : "J",
+          "localname" : "香川県"
+        },
+        {
+          "province_name" : "Ehime",
+          "country" : "J",
+          "localname" : "愛媛県"
+        },
+        {
+          "province_name" : "Kochi",
+          "country" : "J",
+          "localname" : "高知県"
+        },
+        {
+          "province_name" : "Fukuoka",
+          "country" : "J",
+          "localname" : "福岡県"
+        },
+        {
+          "province_name" : "Saga",
+          "country" : "J",
+          "localname" : "佐賀県"
+        },
+        {
+          "province_name" : "Nagasaki",
+          "country" : "J",
+          "localname" : "長崎県"
+        },
+        {
+          "province_name" : "Kumamoto",
+          "country" : "J",
+          "localname" : "熊本県"
+        },
+        {
+          "province_name" : "Oita",
+          "country" : "J",
+          "localname" : "大分県"
+        },
+        {
+          "province_name" : "Miyazaki",
+          "country" : "J",
+          "localname" : "宮崎県"
+        },
+        {
+          "province_name" : "Kagoshima",
+          "country" : "J",
+          "localname" : "鹿児島県"
+        },
+        {
+          "province_name" : "Okinawa",
+          "country" : "J",
+          "localname" : "沖縄県"
+        },
+        {
+          "province_name" : "Adrar",
+          "country" : "RIM",
+          "localname" : "أدرار"
+        },
+        {
+          "province_name" : "Assaba",
+          "country" : "RIM",
+          "localname" : "لعصابة"
+        },
+        {
+          "province_name" : "Brakna",
+          "country" : "RIM",
+          "localname" : "لبراكنة"
+        },
+        {
+          "province_name" : "Dakhlet Nouadhibou",
+          "country" : "RIM",
+          "localname" : "داخلة نواذيبو"
+        },
+        {
+          "province_name" : "Gorgol",
+          "country" : "RIM",
+          "localname" : "كوركول"
+        },
+        {
+          "province_name" : "Guidimagha",
+          "country" : "RIM",
+          "localname" : "غيديماغا"
+        },
+        {
+          "province_name" : "Hodh Chargui",
+          "country" : "RIM",
+          "localname" : "الحوض الشرقي"
+        },
+        {
+          "province_name" : "Hodh El Gharbi",
+          "country" : "RIM",
+          "localname" : "الحوض الغربي"
+        },
+        {
+          "province_name" : "Inchiri",
+          "country" : "RIM",
+          "localname" : "إينشيري"
+        },
+        {
+          "province_name" : "Nouakchott",
+          "country" : "RIM",
+          "localname" : "نواكشوط"
+        },
+        {
+          "province_name" : "Tagant",
+          "country" : "RIM",
+          "localname" : "تكانت"
+        },
+        {
+          "province_name" : "Tiris Zemmour",
+          "country" : "RIM",
+          "localname" : "تيرس زمور"
+        },
+        {
+          "province_name" : "Trarza",
+          "country" : "RIM",
+          "localname" : "الترارزه"
+        },
+        {
+          "province_name" : "Al-Baḥr al-Aḥmar",
+          "country" : "SUD",
+          "localname" : "البحر الأحمر"
+        },
+        {
+          "province_name" : "Al-Jazīrah",
+          "country" : "SUD",
+          "localname" : "الجزيرة"
+        },
+        {
+          "province_name" : "Al-Kharṭūm",
+          "country" : "SUD",
+          "localname" : "الخرطوم"
+        },
+        {
+          "province_name" : "Al-Qaḍārif",
+          "country" : "SUD",
+          "localname" : "القضارف"
+        },
+        {
+          "province_name" : "An-Nīl al-Abyaḍ",
+          "country" : "SUD",
+          "localname" : "النيل الأبيض"
+        },
+        {
+          "province_name" : "An-Nīl al-Azraq",
+          "country" : "SUD",
+          "localname" : "النيل الأزرق"
+        },
+        {
+          "province_name" : "Ash-Shamālīyah",
+          "country" : "SUD",
+          "localname" : "الشمالية"
+        },
+        {
+          "province_name" : "Gharb al-Dārfūr",
+          "country" : "SUD",
+          "localname" : "غرب دارفور"
+        },
+        {
+          "province_name" : "Gharb Kurdufān",
+          "country" : "SUD",
+          "localname" : "غرب كردفان"
+        },
+        {
+          "province_name" : "Janūb Dārfūr",
+          "country" : "SUD",
+          "localname" : "جنوب دارفور"
+        },
+        {
+          "province_name" : "Janūb Kurdufān",
+          "country" : "SUD",
+          "localname" : "جنوب كردفان"
+        },
+        {
+          "province_name" : "Kassalā",
+          "country" : "SUD",
+          "localname" : "كسلا"
+        },
+        {
+          "province_name" : "Nahr an-Nīl",
+          "country" : "SUD",
+          "localname" : "نهر النيل"
+        },
+        {
+          "province_name" : "Sannār",
+          "country" : "SUD",
+          "localname" : "سنار"
+        },
+        {
+          "province_name" : "Shamāl Dārfūr",
+          "country" : "SUD",
+          "localname" : "شمال دارفور"
+        },
+        {
+          "province_name" : "Shamāl Kurdufān",
+          "country" : "SUD",
+          "localname" : "شمال كردفان"
+        },
+        {
+          "province_name" : "Sharq Dārfūr",
+          "country" : "SUD",
+          "localname" : "شرق دارفور‏"
+        },
+        {
+          "province_name" : "Wasaṭ Dārfūr",
+          "country" : "SUD",
+          "localname" : "وسط دارفور‎"
+        }
+      ]
+    }
+  ]
+}

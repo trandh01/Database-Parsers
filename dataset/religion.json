@@ -1,0 +1,4717 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "COUNTRY_CODE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "NAME",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "PERCENTAGE",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "country_code" : "AL",
+          "name" : "Muslim",
+          "percentage" : 58.8
+        },
+        {
+          "country_code" : "AL",
+          "name" : "Catholic",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "AL",
+          "name" : "Christian Orthodox",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "AL",
+          "name" : "Protestant",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "GR",
+          "name" : "Christian Orthodox",
+          "percentage" : 91
+        },
+        {
+          "country_code" : "GR",
+          "name" : "Catholic",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "GR",
+          "name" : "Muslim",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "GR",
+          "name" : "Protestant",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "CY",
+          "name" : "Christian Orthodox",
+          "percentage" : 69.6
+        },
+        {
+          "country_code" : "CY",
+          "name" : "Muslim",
+          "percentage" : 25.3
+        },
+        {
+          "country_code" : "CY",
+          "name" : "Catholic",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "CY",
+          "name" : "Protestant",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "MK",
+          "name" : "Christian Orthodox",
+          "percentage" : 64.8
+        },
+        {
+          "country_code" : "MK",
+          "name" : "Muslim",
+          "percentage" : 33.3
+        },
+        {
+          "country_code" : "MK",
+          "name" : "Catholic",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "SRB",
+          "name" : "Christian Orthodox",
+          "percentage" : 84.5
+        },
+        {
+          "country_code" : "SRB",
+          "name" : "Catholic",
+          "percentage" : 5.4
+        },
+        {
+          "country_code" : "SRB",
+          "name" : "Muslim",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "SRB",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "MNE",
+          "name" : "Christian Orthodox",
+          "percentage" : 72.1
+        },
+        {
+          "country_code" : "MNE",
+          "name" : "Muslim",
+          "percentage" : 19.1
+        },
+        {
+          "country_code" : "MNE",
+          "name" : "Catholic",
+          "percentage" : 3.4
+        },
+        {
+          "country_code" : "MNE",
+          "name" : "Protestant",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "KOS",
+          "name" : "Muslim",
+          "percentage" : 95.6
+        },
+        {
+          "country_code" : "KOS",
+          "name" : "Catholic",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "KOS",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "AND",
+          "name" : "Catholic",
+          "percentage" : 90.1
+        },
+        {
+          "country_code" : "AND",
+          "name" : "Muslim",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "AND",
+          "name" : "Protestant",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "F",
+          "name" : "Catholic",
+          "percentage" : 57.5
+        },
+        {
+          "country_code" : "F",
+          "name" : "Muslim",
+          "percentage" : 9
+        },
+        {
+          "country_code" : "F",
+          "name" : "Protestant",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "F",
+          "name" : "Jewish",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "F",
+          "name" : "Buddhist",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "F",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "F",
+          "name" : "Hindu",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "E",
+          "name" : "Catholic",
+          "percentage" : 68.9
+        },
+        {
+          "country_code" : "E",
+          "name" : "Muslim",
+          "percentage" : 4.1
+        },
+        {
+          "country_code" : "E",
+          "name" : "Protestant",
+          "percentage" : 2.6
+        },
+        {
+          "country_code" : "E",
+          "name" : "Christian Orthodox",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "E",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.25
+        },
+        {
+          "country_code" : "E",
+          "name" : "Jewish",
+          "percentage" : 0.14
+        },
+        {
+          "country_code" : "E",
+          "name" : "Mormon",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "CZ",
+          "name" : "Catholic",
+          "percentage" : 10.3
+        },
+        {
+          "country_code" : "CZ",
+          "name" : "Protestant",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "CZ",
+          "name" : "Muslim",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "SK",
+          "name" : "Catholic",
+          "percentage" : 65.8
+        },
+        {
+          "country_code" : "SK",
+          "name" : "Protestant",
+          "percentage" : 8.9
+        },
+        {
+          "country_code" : "SK",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "D",
+          "name" : "Catholic",
+          "percentage" : 28.5
+        },
+        {
+          "country_code" : "D",
+          "name" : "Protestant",
+          "percentage" : 27.5
+        },
+        {
+          "country_code" : "D",
+          "name" : "Muslim",
+          "percentage" : 6.5
+        },
+        {
+          "country_code" : "D",
+          "name" : "Christian Orthodox",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "D",
+          "name" : "Buddhist",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "D",
+          "name" : "Jewish",
+          "percentage" : 0.25
+        },
+        {
+          "country_code" : "D",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "D",
+          "name" : "Hindu",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "H",
+          "name" : "Catholic",
+          "percentage" : 39
+        },
+        {
+          "country_code" : "H",
+          "name" : "Protestant",
+          "percentage" : 13.8
+        },
+        {
+          "country_code" : "H",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "I",
+          "name" : "Catholic",
+          "percentage" : 71.1
+        },
+        {
+          "country_code" : "I",
+          "name" : "Muslim",
+          "percentage" : 3.7
+        },
+        {
+          "country_code" : "I",
+          "name" : "Protestant",
+          "percentage" : 2.9
+        },
+        {
+          "country_code" : "I",
+          "name" : "Christian Orthodox",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "I",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "I",
+          "name" : "Sikh",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "I",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "I",
+          "name" : "Buddhist",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Catholic",
+          "percentage" : 37.2
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Protestant",
+          "percentage" : 27.2
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Muslim",
+          "percentage" : 5.1
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Christian Orthodox",
+          "percentage" : 2.3
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Hindu",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Buddhist",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "CH",
+          "name" : "Jewish",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "FL",
+          "name" : "Catholic",
+          "percentage" : 75.9
+        },
+        {
+          "country_code" : "FL",
+          "name" : "Protestant",
+          "percentage" : 8.5
+        },
+        {
+          "country_code" : "FL",
+          "name" : "Muslim",
+          "percentage" : 5.4
+        },
+        {
+          "country_code" : "FL",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "A",
+          "name" : "Catholic",
+          "percentage" : 56.9
+        },
+        {
+          "country_code" : "A",
+          "name" : "Muslim",
+          "percentage" : 8
+        },
+        {
+          "country_code" : "A",
+          "name" : "Christian Orthodox",
+          "percentage" : 4.4
+        },
+        {
+          "country_code" : "A",
+          "name" : "Protestant",
+          "percentage" : 3.3
+        },
+        {
+          "country_code" : "A",
+          "name" : "Buddhist",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "EST",
+          "name" : "Christian Orthodox",
+          "percentage" : 16.2
+        },
+        {
+          "country_code" : "EST",
+          "name" : "Protestant",
+          "percentage" : 10.9
+        },
+        {
+          "country_code" : "EST",
+          "name" : "Catholic",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "EST",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "LV",
+          "name" : "Protestant",
+          "percentage" : 36.2
+        },
+        {
+          "country_code" : "LV",
+          "name" : "Catholic",
+          "percentage" : 19.5
+        },
+        {
+          "country_code" : "LV",
+          "name" : "Christian Orthodox",
+          "percentage" : 19.1
+        },
+        {
+          "country_code" : "LT",
+          "name" : "Catholic",
+          "percentage" : 77.2
+        },
+        {
+          "country_code" : "LT",
+          "name" : "Christian Orthodox",
+          "percentage" : 4.9
+        },
+        {
+          "country_code" : "LT",
+          "name" : "Protestant",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "BY",
+          "name" : "Christian Orthodox",
+          "percentage" : 48.3
+        },
+        {
+          "country_code" : "BY",
+          "name" : "Catholic",
+          "percentage" : 7.1
+        },
+        {
+          "country_code" : "BY",
+          "name" : "Protestant",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "BY",
+          "name" : "Muslim",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "PL",
+          "name" : "Catholic",
+          "percentage" : 85.9
+        },
+        {
+          "country_code" : "PL",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "PL",
+          "name" : "Protestant",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "PL",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Christian Orthodox",
+          "percentage" : 67.3
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Catholic",
+          "percentage" : 10.2
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Protestant",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Muslim",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Jewish",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "UA",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "R",
+          "name" : "Christian Orthodox",
+          "percentage" : 42.7
+        },
+        {
+          "country_code" : "R",
+          "name" : "Muslim",
+          "percentage" : 6.5
+        },
+        {
+          "country_code" : "R",
+          "name" : "Buddhist",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "R",
+          "name" : "Protestant",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "R",
+          "name" : "Catholic",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "R",
+          "name" : "Jewish",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "B",
+          "name" : "Catholic",
+          "percentage" : 52.9
+        },
+        {
+          "country_code" : "B",
+          "name" : "Muslim",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "B",
+          "name" : "Protestant",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "B",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "B",
+          "name" : "Jewish",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "B",
+          "name" : "Buddhist",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "L",
+          "name" : "Catholic",
+          "percentage" : 68.7
+        },
+        {
+          "country_code" : "L",
+          "name" : "Protestant",
+          "percentage" : 3.7
+        },
+        {
+          "country_code" : "L",
+          "name" : "Muslim",
+          "percentage" : 2.3
+        },
+        {
+          "country_code" : "L",
+          "name" : "Jewish",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "NL",
+          "name" : "Catholic",
+          "percentage" : 23.6
+        },
+        {
+          "country_code" : "NL",
+          "name" : "Protestant",
+          "percentage" : 14.9
+        },
+        {
+          "country_code" : "NL",
+          "name" : "Muslim",
+          "percentage" : 5.1
+        },
+        {
+          "country_code" : "NL",
+          "name" : "Hindu",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "NL",
+          "name" : "Buddhist",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "SLO",
+          "name" : "Catholic",
+          "percentage" : 57.8
+        },
+        {
+          "country_code" : "SLO",
+          "name" : "Muslim",
+          "percentage" : 2.4
+        },
+        {
+          "country_code" : "SLO",
+          "name" : "Christian Orthodox",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "SLO",
+          "name" : "Protestant",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "HR",
+          "name" : "Catholic",
+          "percentage" : 86.3
+        },
+        {
+          "country_code" : "HR",
+          "name" : "Christian Orthodox",
+          "percentage" : 4.4
+        },
+        {
+          "country_code" : "HR",
+          "name" : "Muslim",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "HR",
+          "name" : "Protestant",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "BIH",
+          "name" : "Muslim",
+          "percentage" : 50.7
+        },
+        {
+          "country_code" : "BIH",
+          "name" : "Christian Orthodox",
+          "percentage" : 30.7
+        },
+        {
+          "country_code" : "BIH",
+          "name" : "Catholic",
+          "percentage" : 15.2
+        },
+        {
+          "country_code" : "BIH",
+          "name" : "Protestant",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "BG",
+          "name" : "Christian Orthodox",
+          "percentage" : 59.4
+        },
+        {
+          "country_code" : "BG",
+          "name" : "Muslim",
+          "percentage" : 7.8
+        },
+        {
+          "country_code" : "BG",
+          "name" : "Protestant",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "BG",
+          "name" : "Jewish",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "BG",
+          "name" : "Catholic",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "RO",
+          "name" : "Christian Orthodox",
+          "percentage" : 86.7
+        },
+        {
+          "country_code" : "RO",
+          "name" : "Catholic",
+          "percentage" : 5.6
+        },
+        {
+          "country_code" : "RO",
+          "name" : "Protestant",
+          "percentage" : 5.3
+        },
+        {
+          "country_code" : "RO",
+          "name" : "Muslim",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "DK",
+          "name" : "Protestant",
+          "percentage" : 74.7
+        },
+        {
+          "country_code" : "DK",
+          "name" : "Muslim",
+          "percentage" : 5.5
+        },
+        {
+          "country_code" : "DK",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "DK",
+          "name" : "Catholic",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "IS",
+          "name" : "Protestant",
+          "percentage" : 74
+        },
+        {
+          "country_code" : "IS",
+          "name" : "Catholic",
+          "percentage" : 3.9
+        },
+        {
+          "country_code" : "FO",
+          "name" : "Protestant",
+          "percentage" : 92
+        },
+        {
+          "country_code" : "FO",
+          "name" : "Buddhist",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "IRL",
+          "name" : "Catholic",
+          "percentage" : 78.3
+        },
+        {
+          "country_code" : "IRL",
+          "name" : "Protestant",
+          "percentage" : 4.2
+        },
+        {
+          "country_code" : "IRL",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "IRL",
+          "name" : "Muslim",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "IRL",
+          "name" : "Hindu",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "SF",
+          "name" : "Protestant",
+          "percentage" : 69.8
+        },
+        {
+          "country_code" : "SF",
+          "name" : "Muslim",
+          "percentage" : 2.7
+        },
+        {
+          "country_code" : "SF",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "N",
+          "name" : "Protestant",
+          "percentage" : 70.6
+        },
+        {
+          "country_code" : "N",
+          "name" : "Muslim",
+          "percentage" : 3.2
+        },
+        {
+          "country_code" : "N",
+          "name" : "Catholic",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "S",
+          "name" : "Protestant",
+          "percentage" : 64.8
+        },
+        {
+          "country_code" : "S",
+          "name" : "Muslim",
+          "percentage" : 8.1
+        },
+        {
+          "country_code" : "S",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "S",
+          "name" : "Catholic",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "MC",
+          "name" : "Catholic",
+          "percentage" : 77
+        },
+        {
+          "country_code" : "MC",
+          "name" : "Protestant",
+          "percentage" : 3.2
+        },
+        {
+          "country_code" : "MC",
+          "name" : "Jewish",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "MC",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "MC",
+          "name" : "Muslim",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "V",
+          "name" : "Catholic",
+          "percentage" : 100
+        },
+        {
+          "country_code" : "CEU",
+          "name" : "Catholic",
+          "percentage" : 68
+        },
+        {
+          "country_code" : "CEU",
+          "name" : "Muslim",
+          "percentage" : 28
+        },
+        {
+          "country_code" : "MEL",
+          "name" : "Muslim",
+          "percentage" : 50
+        },
+        {
+          "country_code" : "MEL",
+          "name" : "Catholic",
+          "percentage" : 40
+        },
+        {
+          "country_code" : "MEL",
+          "name" : "Jewish",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "RSM",
+          "name" : "Catholic",
+          "percentage" : 97.2
+        },
+        {
+          "country_code" : "RSM",
+          "name" : "Protestant",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "RSM",
+          "name" : "Jewish",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "M",
+          "name" : "Catholic",
+          "percentage" : 93.9
+        },
+        {
+          "country_code" : "M",
+          "name" : "Protestant",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "M",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "M",
+          "name" : "Muslim",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "GBM",
+          "name" : "Protestant",
+          "percentage" : 95
+        },
+        {
+          "country_code" : "GBM",
+          "name" : "Catholic",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "MD",
+          "name" : "Christian Orthodox",
+          "percentage" : 93.5
+        },
+        {
+          "country_code" : "MD",
+          "name" : "Protestant",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "MD",
+          "name" : "Catholic",
+          "percentage" : 0.15
+        },
+        {
+          "country_code" : "P",
+          "name" : "Catholic",
+          "percentage" : 81
+        },
+        {
+          "country_code" : "P",
+          "name" : "Protestant",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "P",
+          "name" : "Christian Orthodox",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "P",
+          "name" : "Muslim",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "P",
+          "name" : "Buddhist",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "P",
+          "name" : "Hindu",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "SVA",
+          "name" : "Protestant",
+          "percentage" : 60
+        },
+        {
+          "country_code" : "SVA",
+          "name" : "Christian Orthodox",
+          "percentage" : 25
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Protestant",
+          "percentage" : 42
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Catholic",
+          "percentage" : 8
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Muslim",
+          "percentage" : 4.4
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Hindu",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Sikh",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Jewish",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "GB",
+          "name" : "Buddhist",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "GBZ",
+          "name" : "Catholic",
+          "percentage" : 72.1
+        },
+        {
+          "country_code" : "GBZ",
+          "name" : "Protestant",
+          "percentage" : 7.7
+        },
+        {
+          "country_code" : "GBZ",
+          "name" : "Muslim",
+          "percentage" : 3.6
+        },
+        {
+          "country_code" : "GBZ",
+          "name" : "Jewish",
+          "percentage" : 2.4
+        },
+        {
+          "country_code" : "GBZ",
+          "name" : "Hindu",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "GBJ",
+          "name" : "Catholic",
+          "percentage" : 25
+        },
+        {
+          "country_code" : "GBJ",
+          "name" : "Protestant",
+          "percentage" : 25
+        },
+        {
+          "country_code" : "ARM",
+          "name" : "Christian Orthodox",
+          "percentage" : 92.6
+        },
+        {
+          "country_code" : "ARM",
+          "name" : "Yazidi",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "ARM",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "ARM",
+          "name" : "Catholic",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "GE",
+          "name" : "Christian Orthodox",
+          "percentage" : 86.3
+        },
+        {
+          "country_code" : "GE",
+          "name" : "Muslim",
+          "percentage" : 10.7
+        },
+        {
+          "country_code" : "GE",
+          "name" : "Catholic",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "GE",
+          "name" : "Yazidi",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "AZ",
+          "name" : "Muslim",
+          "percentage" : 96.9
+        },
+        {
+          "country_code" : "AZ",
+          "name" : "Christian Orthodox",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "TR",
+          "name" : "Muslim",
+          "percentage" : 98.3
+        },
+        {
+          "country_code" : "TR",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "RL",
+          "name" : "Muslim",
+          "percentage" : 55.9
+        },
+        {
+          "country_code" : "RL",
+          "name" : "Catholic",
+          "percentage" : 27.1
+        },
+        {
+          "country_code" : "RL",
+          "name" : "Christian Orthodox",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "RL",
+          "name" : "Druze",
+          "percentage" : 5.7
+        },
+        {
+          "country_code" : "RL",
+          "name" : "Protestant",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "WB",
+          "name" : "Muslim",
+          "percentage" : 82
+        },
+        {
+          "country_code" : "WB",
+          "name" : "Jewish",
+          "percentage" : 13
+        },
+        {
+          "country_code" : "WB",
+          "name" : "Christian Orthodox",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "GAZA",
+          "name" : "Muslim",
+          "percentage" : 99.8
+        },
+        {
+          "country_code" : "IL",
+          "name" : "Jewish",
+          "percentage" : 74.3
+        },
+        {
+          "country_code" : "IL",
+          "name" : "Muslim",
+          "percentage" : 17.8
+        },
+        {
+          "country_code" : "IL",
+          "name" : "Christian",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "IL",
+          "name" : "Druze",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "SYR",
+          "name" : "Muslim",
+          "percentage" : 87
+        },
+        {
+          "country_code" : "SYR",
+          "name" : "Christian Orthodox",
+          "percentage" : 8
+        },
+        {
+          "country_code" : "SYR",
+          "name" : "Druze",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "SYR",
+          "name" : "Catholic",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "JOR",
+          "name" : "Muslim",
+          "percentage" : 97.2
+        },
+        {
+          "country_code" : "JOR",
+          "name" : "Christian Orthodox",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "JOR",
+          "name" : "Druze",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "JOR",
+          "name" : "Buddhist",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "JOR",
+          "name" : "Hindu",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "SA",
+          "name" : "Muslim",
+          "percentage" : 100
+        },
+        {
+          "country_code" : "BRN",
+          "name" : "Muslim",
+          "percentage" : 70.3
+        },
+        {
+          "country_code" : "BRN",
+          "name" : "Christian Orthodox",
+          "percentage" : 14
+        },
+        {
+          "country_code" : "BRN",
+          "name" : "Hindu",
+          "percentage" : 9.8
+        },
+        {
+          "country_code" : "BRN",
+          "name" : "Buddhist",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "Q",
+          "name" : "Muslim",
+          "percentage" : 67.7
+        },
+        {
+          "country_code" : "Q",
+          "name" : "Hindu",
+          "percentage" : 13.8
+        },
+        {
+          "country_code" : "Q",
+          "name" : "Catholic",
+          "percentage" : 12
+        },
+        {
+          "country_code" : "Q",
+          "name" : "Buddhist",
+          "percentage" : 3.1
+        },
+        {
+          "country_code" : "Q",
+          "name" : "Protestant",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Muslim",
+          "percentage" : 76
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Catholic",
+          "percentage" : 9
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Hindu",
+          "percentage" : 6.6
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Christian Orthodox",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Buddhist",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "UAE",
+          "name" : "Sikh",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "OM",
+          "name" : "Muslim",
+          "percentage" : 85.9
+        },
+        {
+          "country_code" : "OM",
+          "name" : "Christian",
+          "percentage" : 6.5
+        },
+        {
+          "country_code" : "OM",
+          "name" : "Hindu",
+          "percentage" : 5.5
+        },
+        {
+          "country_code" : "OM",
+          "name" : "Buddhist",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "YE",
+          "name" : "Muslim",
+          "percentage" : 99.1
+        },
+        {
+          "country_code" : "YE",
+          "name" : "Hindu",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Muslim",
+          "percentage" : 74.36
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Christian Orthodox",
+          "percentage" : 7
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Catholic",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Hindu",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Buddhist",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "KWT",
+          "name" : "Protestant",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "IRQ",
+          "name" : "Muslim",
+          "percentage" : 97
+        },
+        {
+          "country_code" : "IRQ",
+          "name" : "Yazidi",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "IRQ",
+          "name" : "Christian",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "IR",
+          "name" : "Muslim",
+          "percentage" : 99.4
+        },
+        {
+          "country_code" : "IR",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "AFG",
+          "name" : "Muslim",
+          "percentage" : 99
+        },
+        {
+          "country_code" : "TM",
+          "name" : "Muslim",
+          "percentage" : 91
+        },
+        {
+          "country_code" : "TM",
+          "name" : "Christian Orthodox",
+          "percentage" : 6
+        },
+        {
+          "country_code" : "UZ",
+          "name" : "Muslim",
+          "percentage" : 88
+        },
+        {
+          "country_code" : "UZ",
+          "name" : "Christian Orthodox",
+          "percentage" : 9
+        },
+        {
+          "country_code" : "TJ",
+          "name" : "Muslim",
+          "percentage" : 98
+        },
+        {
+          "country_code" : "TJ",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "KG",
+          "name" : "Muslim",
+          "percentage" : 87.6
+        },
+        {
+          "country_code" : "KG",
+          "name" : "Christian Orthodox",
+          "percentage" : 9.4
+        },
+        {
+          "country_code" : "KG",
+          "name" : "Protestant",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "KZ",
+          "name" : "Muslim",
+          "percentage" : 70.2
+        },
+        {
+          "country_code" : "KZ",
+          "name" : "Christian Orthodox",
+          "percentage" : 24
+        },
+        {
+          "country_code" : "KZ",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "KZ",
+          "name" : "Catholic",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "KZ",
+          "name" : "Buddhist",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "MNG",
+          "name" : "Buddhist",
+          "percentage" : 53
+        },
+        {
+          "country_code" : "MNG",
+          "name" : "Muslim",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "MNG",
+          "name" : "Protestant",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "MNG",
+          "name" : "Catholic",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "MNG",
+          "name" : "Mormon",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "MV",
+          "name" : "Muslim",
+          "percentage" : 98
+        },
+        {
+          "country_code" : "PK",
+          "name" : "Muslim",
+          "percentage" : 97
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Hindu",
+          "percentage" : 79.8
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Muslim",
+          "percentage" : 14.2
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Sikh",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Catholic",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Buddhist",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Sarnaism",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Protestant",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "IND",
+          "name" : "Jains",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "NEP",
+          "name" : "Hindu",
+          "percentage" : 81.3
+        },
+        {
+          "country_code" : "NEP",
+          "name" : "Buddhist",
+          "percentage" : 9
+        },
+        {
+          "country_code" : "NEP",
+          "name" : "Muslim",
+          "percentage" : 4.4
+        },
+        {
+          "country_code" : "NEP",
+          "name" : "Christian",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "BHT",
+          "name" : "Buddhist",
+          "percentage" : 75.3
+        },
+        {
+          "country_code" : "BHT",
+          "name" : "Hindu",
+          "percentage" : 22.6
+        },
+        {
+          "country_code" : "BHT",
+          "name" : "Muslim",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "BD",
+          "name" : "Muslim",
+          "percentage" : 89.5
+        },
+        {
+          "country_code" : "BD",
+          "name" : "Hindu",
+          "percentage" : 8.5
+        },
+        {
+          "country_code" : "BD",
+          "name" : "Buddhist",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "BD",
+          "name" : "Christian",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "MYA",
+          "name" : "Buddhist",
+          "percentage" : 87.9
+        },
+        {
+          "country_code" : "MYA",
+          "name" : "Christian",
+          "percentage" : 6.2
+        },
+        {
+          "country_code" : "MYA",
+          "name" : "Muslim",
+          "percentage" : 4.3
+        },
+        {
+          "country_code" : "MYA",
+          "name" : "Hindu",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "CL",
+          "name" : "Buddhist",
+          "percentage" : 70.2
+        },
+        {
+          "country_code" : "CL",
+          "name" : "Hindu",
+          "percentage" : 12.6
+        },
+        {
+          "country_code" : "CL",
+          "name" : "Muslim",
+          "percentage" : 9.7
+        },
+        {
+          "country_code" : "CL",
+          "name" : "Catholic",
+          "percentage" : 6.1
+        },
+        {
+          "country_code" : "CL",
+          "name" : "Protestant",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "CN",
+          "name" : "Buddhist",
+          "percentage" : 16
+        },
+        {
+          "country_code" : "CN",
+          "name" : "Protestant",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "CN",
+          "name" : "Muslim",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "CN",
+          "name" : "Taoist",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "CN",
+          "name" : "Catholic",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Buddhist",
+          "percentage" : 35.3
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Taoist",
+          "percentage" : 33.2
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Protestant",
+          "percentage" : 2.6
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Catholic",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Muslim",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "RC",
+          "name" : "Mormon",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Buddhist",
+          "percentage" : 27.9
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Protestant",
+          "percentage" : 6.7
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Catholic",
+          "percentage" : 5.3
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Muslim",
+          "percentage" : 4.2
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Hindu",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "HK",
+          "name" : "Sikh",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "MACX",
+          "name" : "Buddhist",
+          "percentage" : 16.8
+        },
+        {
+          "country_code" : "MACX",
+          "name" : "Catholic",
+          "percentage" : 6.7
+        },
+        {
+          "country_code" : "MACX",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "KP",
+          "name" : "Korean Shamanism",
+          "percentage" : 16
+        },
+        {
+          "country_code" : "KP",
+          "name" : "Chendoism",
+          "percentage" : 13.5
+        },
+        {
+          "country_code" : "KP",
+          "name" : "Buddhist",
+          "percentage" : 4.5
+        },
+        {
+          "country_code" : "KP",
+          "name" : "Christian",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "ROK",
+          "name" : "Protestant",
+          "percentage" : 19.7
+        },
+        {
+          "country_code" : "ROK",
+          "name" : "Buddhist",
+          "percentage" : 15.5
+        },
+        {
+          "country_code" : "ROK",
+          "name" : "Catholic",
+          "percentage" : 7.9
+        },
+        {
+          "country_code" : "ROK",
+          "name" : "Muslim",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "J",
+          "name" : "Buddhist",
+          "percentage" : 35
+        },
+        {
+          "country_code" : "J",
+          "name" : "Shintoist",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "J",
+          "name" : "Catholic",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "J",
+          "name" : "Protestant",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "J",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "J",
+          "name" : "Muslim",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "J",
+          "name" : "Mormon",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "RP",
+          "name" : "Catholic",
+          "percentage" : 80.6
+        },
+        {
+          "country_code" : "RP",
+          "name" : "Protestant",
+          "percentage" : 10.8
+        },
+        {
+          "country_code" : "RP",
+          "name" : "Muslim",
+          "percentage" : 5.6
+        },
+        {
+          "country_code" : "RP",
+          "name" : "Buddhist",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Vietnamese Folk Religion",
+          "percentage" : 45.3
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Buddhist",
+          "percentage" : 12.2
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Catholic",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Cao Dai",
+          "percentage" : 4.8
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Protestant",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Hoa Hao",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "VN",
+          "name" : "Muslim",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "K",
+          "name" : "Buddhist",
+          "percentage" : 92
+        },
+        {
+          "country_code" : "K",
+          "name" : "Muslim",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "K",
+          "name" : "Christian",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "LAO",
+          "name" : "Buddhist",
+          "percentage" : 64.7
+        },
+        {
+          "country_code" : "LAO",
+          "name" : "Satsana Phi",
+          "percentage" : 31.5
+        },
+        {
+          "country_code" : "LAO",
+          "name" : "Christian",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "THA",
+          "name" : "Buddhist",
+          "percentage" : 95
+        },
+        {
+          "country_code" : "THA",
+          "name" : "Muslim",
+          "percentage" : 3.8
+        },
+        {
+          "country_code" : "THA",
+          "name" : "Christian",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "THA",
+          "name" : "Hindu",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "MAL",
+          "name" : "Muslim",
+          "percentage" : 61.3
+        },
+        {
+          "country_code" : "MAL",
+          "name" : "Buddhist",
+          "percentage" : 19.8
+        },
+        {
+          "country_code" : "MAL",
+          "name" : "Christian",
+          "percentage" : 9.2
+        },
+        {
+          "country_code" : "MAL",
+          "name" : "Hindu",
+          "percentage" : 6.3
+        },
+        {
+          "country_code" : "BRU",
+          "name" : "Muslim",
+          "percentage" : 67
+        },
+        {
+          "country_code" : "BRU",
+          "name" : "Buddhist",
+          "percentage" : 13
+        },
+        {
+          "country_code" : "BRU",
+          "name" : "Christian",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "SGP",
+          "name" : "Buddhist",
+          "percentage" : 33.2
+        },
+        {
+          "country_code" : "SGP",
+          "name" : "Christian",
+          "percentage" : 18.8
+        },
+        {
+          "country_code" : "SGP",
+          "name" : "Muslim",
+          "percentage" : 14
+        },
+        {
+          "country_code" : "SGP",
+          "name" : "Taoist",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "SGP",
+          "name" : "Hindu",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "RI",
+          "name" : "Muslim",
+          "percentage" : 87
+        },
+        {
+          "country_code" : "RI",
+          "name" : "Protestant",
+          "percentage" : 7
+        },
+        {
+          "country_code" : "RI",
+          "name" : "Catholic",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "RI",
+          "name" : "Hindu",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "RI",
+          "name" : "Buddhist",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "TL",
+          "name" : "Catholic",
+          "percentage" : 98
+        },
+        {
+          "country_code" : "TL",
+          "name" : "Muslim",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "TL",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "PNG",
+          "name" : "Protestant",
+          "percentage" : 69.4
+        },
+        {
+          "country_code" : "PNG",
+          "name" : "Catholic",
+          "percentage" : 27
+        },
+        {
+          "country_code" : "PNG",
+          "name" : "Bahai",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "SOL",
+          "name" : "Protestant",
+          "percentage" : 73.4
+        },
+        {
+          "country_code" : "SOL",
+          "name" : "Catholic",
+          "percentage" : 19.6
+        },
+        {
+          "country_code" : "VU",
+          "name" : "Protestant",
+          "percentage" : 70
+        },
+        {
+          "country_code" : "VU",
+          "name" : "Catholic",
+          "percentage" : 13
+        },
+        {
+          "country_code" : "NCL",
+          "name" : "Catholic",
+          "percentage" : 60
+        },
+        {
+          "country_code" : "NCL",
+          "name" : "Protestant",
+          "percentage" : 30
+        },
+        {
+          "country_code" : "NCL",
+          "name" : "Muslim",
+          "percentage" : 2.6
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Protestant",
+          "percentage" : 23.1
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Catholic",
+          "percentage" : 22.6
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Muslim",
+          "percentage" : 2.6
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Buddhist",
+          "percentage" : 2.4
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Christian Orthodox",
+          "percentage" : 2.3
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Hindu",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Sikh",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "AUS",
+          "name" : "Jewish",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "XMAS",
+          "name" : "Muslim",
+          "percentage" : 19.4
+        },
+        {
+          "country_code" : "XMAS",
+          "name" : "Buddhist",
+          "percentage" : 18.3
+        },
+        {
+          "country_code" : "XMAS",
+          "name" : "Catholic",
+          "percentage" : 8.8
+        },
+        {
+          "country_code" : "XMAS",
+          "name" : "Protestant",
+          "percentage" : 6.5
+        },
+        {
+          "country_code" : "COCO",
+          "name" : "Muslim",
+          "percentage" : 75
+        },
+        {
+          "country_code" : "COCO",
+          "name" : "Protestant",
+          "percentage" : 3.5
+        },
+        {
+          "country_code" : "COCO",
+          "name" : "Catholic",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "NORF",
+          "name" : "Protestant",
+          "percentage" : 46.8
+        },
+        {
+          "country_code" : "NORF",
+          "name" : "Catholic",
+          "percentage" : 12.6
+        },
+        {
+          "country_code" : "NZ",
+          "name" : "Protestant",
+          "percentage" : 38.6
+        },
+        {
+          "country_code" : "NZ",
+          "name" : "Catholic",
+          "percentage" : 12.6
+        },
+        {
+          "country_code" : "NZ",
+          "name" : "Hindu",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "NZ",
+          "name" : "Buddhist",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "PAL",
+          "name" : "Catholic",
+          "percentage" : 45.3
+        },
+        {
+          "country_code" : "PAL",
+          "name" : "Protestant",
+          "percentage" : 41.9
+        },
+        {
+          "country_code" : "PAL",
+          "name" : "Muslim",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "PAL",
+          "name" : "Mormon",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "PAL",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "NMIS",
+          "name" : "Catholic",
+          "percentage" : 64.1
+        },
+        {
+          "country_code" : "NMIS",
+          "name" : "Protestant",
+          "percentage" : 16
+        },
+        {
+          "country_code" : "NMIS",
+          "name" : "Buddhist",
+          "percentage" : 10.6
+        },
+        {
+          "country_code" : "GUAM",
+          "name" : "Catholic",
+          "percentage" : 75
+        },
+        {
+          "country_code" : "GUAM",
+          "name" : "Protestant",
+          "percentage" : 17.7
+        },
+        {
+          "country_code" : "GUAM",
+          "name" : "Buddhist",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "FSM",
+          "name" : "Catholic",
+          "percentage" : 54.7
+        },
+        {
+          "country_code" : "FSM",
+          "name" : "Protestant",
+          "percentage" : 41.1
+        },
+        {
+          "country_code" : "FSM",
+          "name" : "Mormon",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "MH",
+          "name" : "Protestant",
+          "percentage" : 80.5
+        },
+        {
+          "country_code" : "MH",
+          "name" : "Mormon",
+          "percentage" : 9.5
+        },
+        {
+          "country_code" : "MH",
+          "name" : "Catholic",
+          "percentage" : 8.4
+        },
+        {
+          "country_code" : "MH",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "MH",
+          "name" : "Bahai",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "NAU",
+          "name" : "Protestant",
+          "percentage" : 60.4
+        },
+        {
+          "country_code" : "NAU",
+          "name" : "Catholic",
+          "percentage" : 33
+        },
+        {
+          "country_code" : "KIR",
+          "name" : "Catholic",
+          "percentage" : 57.3
+        },
+        {
+          "country_code" : "KIR",
+          "name" : "Protestant",
+          "percentage" : 33.2
+        },
+        {
+          "country_code" : "KIR",
+          "name" : "Mormon",
+          "percentage" : 5.3
+        },
+        {
+          "country_code" : "KIR",
+          "name" : "Bahai",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "TUV",
+          "name" : "Protestant",
+          "percentage" : 92.4
+        },
+        {
+          "country_code" : "TUV",
+          "name" : "Bahai",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "TUV",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "TUV",
+          "name" : "Mormon",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "TOK",
+          "name" : "Protestant",
+          "percentage" : 56.3
+        },
+        {
+          "country_code" : "TOK",
+          "name" : "Catholic",
+          "percentage" : 38.7
+        },
+        {
+          "country_code" : "WS",
+          "name" : "Protestant",
+          "percentage" : 54.9
+        },
+        {
+          "country_code" : "WS",
+          "name" : "Catholic",
+          "percentage" : 18.8
+        },
+        {
+          "country_code" : "WS",
+          "name" : "Mormon",
+          "percentage" : 16.9
+        },
+        {
+          "country_code" : "WS",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "WS",
+          "name" : "Bahai",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "WS",
+          "name" : "New Apostolic",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Protestant",
+          "percentage" : 58
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Mormon",
+          "percentage" : 22
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Catholic",
+          "percentage" : 19
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Bahai",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "AMSA",
+          "name" : "Buddhist",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "WF",
+          "name" : "Catholic",
+          "percentage" : 99
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Protestant",
+          "percentage" : 54.4
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Hindu",
+          "percentage" : 27.9
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Catholic",
+          "percentage" : 9.1
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Muslim",
+          "percentage" : 6.3
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Mormon",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "FJI",
+          "name" : "Sikh",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "TO",
+          "name" : "Protestant",
+          "percentage" : 64.1
+        },
+        {
+          "country_code" : "TO",
+          "name" : "Mormon",
+          "percentage" : 18.6
+        },
+        {
+          "country_code" : "TO",
+          "name" : "Catholic",
+          "percentage" : 14.2
+        },
+        {
+          "country_code" : "NIUE",
+          "name" : "Protestant",
+          "percentage" : 70
+        },
+        {
+          "country_code" : "NIUE",
+          "name" : "Catholic",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "NIUE",
+          "name" : "Mormon",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "NIUE",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "COOK",
+          "name" : "Protestant",
+          "percentage" : 62.8
+        },
+        {
+          "country_code" : "COOK",
+          "name" : "Catholic",
+          "percentage" : 17
+        },
+        {
+          "country_code" : "COOK",
+          "name" : "Mormon",
+          "percentage" : 4.4
+        },
+        {
+          "country_code" : "FPOL",
+          "name" : "Protestant",
+          "percentage" : 54
+        },
+        {
+          "country_code" : "FPOL",
+          "name" : "Catholic",
+          "percentage" : 30
+        },
+        {
+          "country_code" : "FPOL",
+          "name" : "Mormon",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "FPOL",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "PITC",
+          "name" : "Protestant",
+          "percentage" : 100
+        },
+        {
+          "country_code" : "ET",
+          "name" : "Muslim",
+          "percentage" : 90
+        },
+        {
+          "country_code" : "ET",
+          "name" : "Coptic Christian",
+          "percentage" : 8.5
+        },
+        {
+          "country_code" : "ET",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "LAR",
+          "name" : "Muslim",
+          "percentage" : 97
+        },
+        {
+          "country_code" : "LAR",
+          "name" : "Coptic Christian",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "LAR",
+          "name" : "Catholic",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "TN",
+          "name" : "Muslim",
+          "percentage" : 98
+        },
+        {
+          "country_code" : "TN",
+          "name" : "Christian",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "DZ",
+          "name" : "Muslim",
+          "percentage" : 97.9
+        },
+        {
+          "country_code" : "DZ",
+          "name" : "Christian",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "DZ",
+          "name" : "Jewish",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "MA",
+          "name" : "Muslim",
+          "percentage" : 98.7
+        },
+        {
+          "country_code" : "MA",
+          "name" : "Christian",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "WSA",
+          "name" : "Muslim",
+          "percentage" : 100
+        },
+        {
+          "country_code" : "RMM",
+          "name" : "Muslim",
+          "percentage" : 93.9
+        },
+        {
+          "country_code" : "RMM",
+          "name" : "Catholic",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "RMM",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "RIM",
+          "name" : "Muslim",
+          "percentage" : 99.9
+        },
+        {
+          "country_code" : "RIM",
+          "name" : "Catholic",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "SN",
+          "name" : "Muslim",
+          "percentage" : 95.9
+        },
+        {
+          "country_code" : "SN",
+          "name" : "Catholic",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "SN",
+          "name" : "Protestant",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "WAG",
+          "name" : "Muslim",
+          "percentage" : 95.7
+        },
+        {
+          "country_code" : "WAG",
+          "name" : "Catholic",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "WAG",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "GUB",
+          "name" : "Muslim",
+          "percentage" : 45.1
+        },
+        {
+          "country_code" : "GUB",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 14.9
+        },
+        {
+          "country_code" : "GUB",
+          "name" : "Catholic",
+          "percentage" : 12
+        },
+        {
+          "country_code" : "GUB",
+          "name" : "Protestant",
+          "percentage" : 12
+        },
+        {
+          "country_code" : "RG",
+          "name" : "Muslim",
+          "percentage" : 89.1
+        },
+        {
+          "country_code" : "RG",
+          "name" : "Catholic",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "RG",
+          "name" : "Protestant",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "RG",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "SLE",
+          "name" : "Muslim",
+          "percentage" : 78.6
+        },
+        {
+          "country_code" : "SLE",
+          "name" : "Protestant",
+          "percentage" : 12.2
+        },
+        {
+          "country_code" : "SLE",
+          "name" : "Catholic",
+          "percentage" : 9
+        },
+        {
+          "country_code" : "LB",
+          "name" : "Protestant",
+          "percentage" : 76.3
+        },
+        {
+          "country_code" : "LB",
+          "name" : "Muslim",
+          "percentage" : 12.2
+        },
+        {
+          "country_code" : "LB",
+          "name" : "Catholic",
+          "percentage" : 7.2
+        },
+        {
+          "country_code" : "LB",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "BF",
+          "name" : "Muslim",
+          "percentage" : 60.5
+        },
+        {
+          "country_code" : "BF",
+          "name" : "Catholic",
+          "percentage" : 23.3
+        },
+        {
+          "country_code" : "BF",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 7.8
+        },
+        {
+          "country_code" : "BF",
+          "name" : "Protestant",
+          "percentage" : 6.5
+        },
+        {
+          "country_code" : "CI",
+          "name" : "Muslim",
+          "percentage" : 42.9
+        },
+        {
+          "country_code" : "CI",
+          "name" : "Catholic",
+          "percentage" : 17.2
+        },
+        {
+          "country_code" : "CI",
+          "name" : "Protestant",
+          "percentage" : 16.7
+        },
+        {
+          "country_code" : "CI",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 11.9
+        },
+        {
+          "country_code" : "GH",
+          "name" : "Protestant",
+          "percentage" : 58
+        },
+        {
+          "country_code" : "GH",
+          "name" : "Muslim",
+          "percentage" : 17.6
+        },
+        {
+          "country_code" : "GH",
+          "name" : "Catholic",
+          "percentage" : 13.1
+        },
+        {
+          "country_code" : "GH",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 5.2
+        },
+        {
+          "country_code" : "RT",
+          "name" : "Catholic",
+          "percentage" : 26
+        },
+        {
+          "country_code" : "RT",
+          "name" : "Muslim",
+          "percentage" : 20
+        },
+        {
+          "country_code" : "RT",
+          "name" : "Protestant",
+          "percentage" : 14
+        },
+        {
+          "country_code" : "RT",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 6
+        },
+        {
+          "country_code" : "RT",
+          "name" : "Voodoo",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "BEN",
+          "name" : "Muslim",
+          "percentage" : 27.7
+        },
+        {
+          "country_code" : "BEN",
+          "name" : "Catholic",
+          "percentage" : 25.5
+        },
+        {
+          "country_code" : "BEN",
+          "name" : "Protestant",
+          "percentage" : 22
+        },
+        {
+          "country_code" : "BEN",
+          "name" : "Voodoo",
+          "percentage" : 11.6
+        },
+        {
+          "country_code" : "NGR",
+          "name" : "Muslim",
+          "percentage" : 53.5
+        },
+        {
+          "country_code" : "NGR",
+          "name" : "Protestant",
+          "percentage" : 35
+        },
+        {
+          "country_code" : "NGR",
+          "name" : "Catholic",
+          "percentage" : 10.6
+        },
+        {
+          "country_code" : "NGR",
+          "name" : "African Religions",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "RN",
+          "name" : "Muslim",
+          "percentage" : 99.3
+        },
+        {
+          "country_code" : "TCH",
+          "name" : "Muslim",
+          "percentage" : 52.1
+        },
+        {
+          "country_code" : "TCH",
+          "name" : "Protestant",
+          "percentage" : 23.9
+        },
+        {
+          "country_code" : "TCH",
+          "name" : "Catholic",
+          "percentage" : 20
+        },
+        {
+          "country_code" : "TCH",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 4
+        },
+        {
+          "country_code" : "SUD",
+          "name" : "Muslim",
+          "percentage" : 97
+        },
+        {
+          "country_code" : "SUD",
+          "name" : "Christian",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "SSD",
+          "name" : "Catholic",
+          "percentage" : 38
+        },
+        {
+          "country_code" : "SSD",
+          "name" : "Protestant",
+          "percentage" : 38
+        },
+        {
+          "country_code" : "SSD",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 21
+        },
+        {
+          "country_code" : "SSD",
+          "name" : "Muslim",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "RCA",
+          "name" : "Protestant",
+          "percentage" : 51.4
+        },
+        {
+          "country_code" : "RCA",
+          "name" : "Catholic",
+          "percentage" : 28.9
+        },
+        {
+          "country_code" : "RCA",
+          "name" : "Muslim",
+          "percentage" : 10
+        },
+        {
+          "country_code" : "RCA",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 9.6
+        },
+        {
+          "country_code" : "CAM",
+          "name" : "Catholic",
+          "percentage" : 38.4
+        },
+        {
+          "country_code" : "CAM",
+          "name" : "Protestant",
+          "percentage" : 26.3
+        },
+        {
+          "country_code" : "CAM",
+          "name" : "Muslim",
+          "percentage" : 20.9
+        },
+        {
+          "country_code" : "CAM",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "GQ",
+          "name" : "Catholic",
+          "percentage" : 87
+        },
+        {
+          "country_code" : "GQ",
+          "name" : "Protestant",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "GQ",
+          "name" : "Muslim",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "G",
+          "name" : "Catholic",
+          "percentage" : 60
+        },
+        {
+          "country_code" : "G",
+          "name" : "Muslim",
+          "percentage" : 12
+        },
+        {
+          "country_code" : "G",
+          "name" : "Protestant",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "RCB",
+          "name" : "Protestant",
+          "percentage" : 51.4
+        },
+        {
+          "country_code" : "RCB",
+          "name" : "Catholic",
+          "percentage" : 33.1
+        },
+        {
+          "country_code" : "RCB",
+          "name" : "Muslim",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "CGO",
+          "name" : "Catholic",
+          "percentage" : 55.8
+        },
+        {
+          "country_code" : "CGO",
+          "name" : "Protestant",
+          "percentage" : 39.1
+        },
+        {
+          "country_code" : "CGO",
+          "name" : "Muslim",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "ANG",
+          "name" : "Catholic",
+          "percentage" : 41.1
+        },
+        {
+          "country_code" : "ANG",
+          "name" : "Protestant",
+          "percentage" : 38.1
+        },
+        {
+          "country_code" : "ANG",
+          "name" : "Muslim",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "ANG",
+          "name" : "Jewish",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "NAM",
+          "name" : "Protestant",
+          "percentage" : 70
+        },
+        {
+          "country_code" : "NAM",
+          "name" : "Catholic",
+          "percentage" : 17
+        },
+        {
+          "country_code" : "NAM",
+          "name" : "Muslim",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "RB",
+          "name" : "Protestant",
+          "percentage" : 66
+        },
+        {
+          "country_code" : "RB",
+          "name" : "Catholic",
+          "percentage" : 7
+        },
+        {
+          "country_code" : "RB",
+          "name" : "Muslim",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "RB",
+          "name" : "Hindu",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Protestant",
+          "percentage" : 73.2
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Catholic",
+          "percentage" : 7.4
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Muslim",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Hindu",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Jewish",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "RSA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "LS",
+          "name" : "Protestant",
+          "percentage" : 50
+        },
+        {
+          "country_code" : "LS",
+          "name" : "Catholic",
+          "percentage" : 45
+        },
+        {
+          "country_code" : "SD",
+          "name" : "Protestant",
+          "percentage" : 65
+        },
+        {
+          "country_code" : "SD",
+          "name" : "Catholic",
+          "percentage" : 6
+        },
+        {
+          "country_code" : "SD",
+          "name" : "Muslim",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "SD",
+          "name" : "Bahai",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "SD",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "MOC",
+          "name" : "Protestant",
+          "percentage" : 32.6
+        },
+        {
+          "country_code" : "MOC",
+          "name" : "Catholic",
+          "percentage" : 27.2
+        },
+        {
+          "country_code" : "MOC",
+          "name" : "Muslim",
+          "percentage" : 18.9
+        },
+        {
+          "country_code" : "ZW",
+          "name" : "Protestant",
+          "percentage" : 74.8
+        },
+        {
+          "country_code" : "ZW",
+          "name" : "Catholic",
+          "percentage" : 7.3
+        },
+        {
+          "country_code" : "ZW",
+          "name" : "Muslim",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "Z",
+          "name" : "Protestant",
+          "percentage" : 75.3
+        },
+        {
+          "country_code" : "Z",
+          "name" : "Catholic",
+          "percentage" : 20.2
+        },
+        {
+          "country_code" : "Z",
+          "name" : "Muslim",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "MW",
+          "name" : "Protestant",
+          "percentage" : 55
+        },
+        {
+          "country_code" : "MW",
+          "name" : "Catholic",
+          "percentage" : 23
+        },
+        {
+          "country_code" : "MW",
+          "name" : "Muslim",
+          "percentage" : 13.8
+        },
+        {
+          "country_code" : "MW",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "EAT",
+          "name" : "Muslim",
+          "percentage" : 35.2
+        },
+        {
+          "country_code" : "EAT",
+          "name" : "Catholic",
+          "percentage" : 31
+        },
+        {
+          "country_code" : "EAT",
+          "name" : "Protestant",
+          "percentage" : 27
+        },
+        {
+          "country_code" : "EAT",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "EAT",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "BI",
+          "name" : "Catholic",
+          "percentage" : 65
+        },
+        {
+          "country_code" : "BI",
+          "name" : "Protestant",
+          "percentage" : 26
+        },
+        {
+          "country_code" : "BI",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "BI",
+          "name" : "Muslim",
+          "percentage" : 3
+        },
+        {
+          "country_code" : "RWA",
+          "name" : "Protestant",
+          "percentage" : 49.5
+        },
+        {
+          "country_code" : "RWA",
+          "name" : "Catholic",
+          "percentage" : 43.7
+        },
+        {
+          "country_code" : "RWA",
+          "name" : "Muslim",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "EAU",
+          "name" : "Protestant",
+          "percentage" : 45.1
+        },
+        {
+          "country_code" : "EAU",
+          "name" : "Catholic",
+          "percentage" : 39.3
+        },
+        {
+          "country_code" : "EAU",
+          "name" : "Muslim",
+          "percentage" : 13.7
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Protestant",
+          "percentage" : 52
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Catholic",
+          "percentage" : 23.3
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Muslim",
+          "percentage" : 15
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Christian Orthodox",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Bahai",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Hindu",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "EAK",
+          "name" : "Quaker",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "SO",
+          "name" : "Muslim",
+          "percentage" : 99.8
+        },
+        {
+          "country_code" : "DJI",
+          "name" : "Muslim",
+          "percentage" : 94
+        },
+        {
+          "country_code" : "DJI",
+          "name" : "Tewahedo Christian Orthodox",
+          "percentage" : 3.2
+        },
+        {
+          "country_code" : "DJI",
+          "name" : "Catholic",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "DJI",
+          "name" : "Protestant",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "Tewahedo Christian Orthodox",
+          "percentage" : 43.5
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "Muslim",
+          "percentage" : 33.9
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "Protestant",
+          "percentage" : 18.6
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "African Religions",
+          "percentage" : 2.6
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "Catholic",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "ETH",
+          "name" : "Jewish",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "ER",
+          "name" : "Tewahedo Christian Orthodox",
+          "percentage" : 50
+        },
+        {
+          "country_code" : "ER",
+          "name" : "Muslim",
+          "percentage" : 48
+        },
+        {
+          "country_code" : "CV",
+          "name" : "Catholic",
+          "percentage" : 77.3
+        },
+        {
+          "country_code" : "CV",
+          "name" : "Protestant",
+          "percentage" : 4.6
+        },
+        {
+          "country_code" : "CV",
+          "name" : "Muslim",
+          "percentage" : 1.8
+        },
+        {
+          "country_code" : "CV",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "CV",
+          "name" : "New Apostolic",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "STP",
+          "name" : "Catholic",
+          "percentage" : 55.7
+        },
+        {
+          "country_code" : "STP",
+          "name" : "Protestant",
+          "percentage" : 9.5
+        },
+        {
+          "country_code" : "STP",
+          "name" : "New Apostolic",
+          "percentage" : 2.9
+        },
+        {
+          "country_code" : "STP",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "SY",
+          "name" : "Catholic",
+          "percentage" : 76.2
+        },
+        {
+          "country_code" : "SY",
+          "name" : "Protestant",
+          "percentage" : 10.6
+        },
+        {
+          "country_code" : "SY",
+          "name" : "Hindu",
+          "percentage" : 2.4
+        },
+        {
+          "country_code" : "SY",
+          "name" : "Muslim",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "COM",
+          "name" : "Muslim",
+          "percentage" : 98
+        },
+        {
+          "country_code" : "COM",
+          "name" : "Catholic",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "MAYO",
+          "name" : "Muslim",
+          "percentage" : 97
+        },
+        {
+          "country_code" : "MAYO",
+          "name" : "Catholic",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "RM",
+          "name" : "Indigenous Beliefs",
+          "percentage" : 52
+        },
+        {
+          "country_code" : "RM",
+          "name" : "Catholic",
+          "percentage" : 23
+        },
+        {
+          "country_code" : "RM",
+          "name" : "Protestant",
+          "percentage" : 18
+        },
+        {
+          "country_code" : "RM",
+          "name" : "Muslim",
+          "percentage" : 7
+        },
+        {
+          "country_code" : "MS",
+          "name" : "Hindu",
+          "percentage" : 48.5
+        },
+        {
+          "country_code" : "MS",
+          "name" : "Catholic",
+          "percentage" : 26.3
+        },
+        {
+          "country_code" : "MS",
+          "name" : "Muslim",
+          "percentage" : 17.3
+        },
+        {
+          "country_code" : "MS",
+          "name" : "Protestant",
+          "percentage" : 6.4
+        },
+        {
+          "country_code" : "REUN",
+          "name" : "Catholic",
+          "percentage" : 79.9
+        },
+        {
+          "country_code" : "REUN",
+          "name" : "Protestant",
+          "percentage" : 7
+        },
+        {
+          "country_code" : "REUN",
+          "name" : "Hindu",
+          "percentage" : 6.7
+        },
+        {
+          "country_code" : "REUN",
+          "name" : "Muslim",
+          "percentage" : 3.2
+        },
+        {
+          "country_code" : "HELX",
+          "name" : "Protestant",
+          "percentage" : 88.1
+        },
+        {
+          "country_code" : "HELX",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 4.8
+        },
+        {
+          "country_code" : "HELX",
+          "name" : "New Apostolic",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "HELX",
+          "name" : "Catholic",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "HELX",
+          "name" : "Bahai",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "GL",
+          "name" : "Protestant",
+          "percentage" : 95.5
+        },
+        {
+          "country_code" : "GL",
+          "name" : "Inuit spiritism",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "GL",
+          "name" : "Catholic",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "SPMI",
+          "name" : "Catholic",
+          "percentage" : 99
+        },
+        {
+          "country_code" : "BERM",
+          "name" : "Protestant",
+          "percentage" : 46.2
+        },
+        {
+          "country_code" : "BERM",
+          "name" : "Catholic",
+          "percentage" : 14.5
+        },
+        {
+          "country_code" : "BERM",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "BERM",
+          "name" : "Muslim",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "BERM",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Catholic",
+          "percentage" : 38.7
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Protestant",
+          "percentage" : 28.5
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Muslim",
+          "percentage" : 3.2
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Christian Orthodox",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Hindu",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Sikh",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Buddhist",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "CDN",
+          "name" : "Jewish",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Protestant",
+          "percentage" : 48.5
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Catholic",
+          "percentage" : 22.7
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Jewish",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Mormon",
+          "percentage" : 1.8
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Muslim",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Buddhist",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "USA",
+          "name" : "Hindu",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "MEX",
+          "name" : "Catholic",
+          "percentage" : 83.9
+        },
+        {
+          "country_code" : "MEX",
+          "name" : "Protestant",
+          "percentage" : 7.6
+        },
+        {
+          "country_code" : "MEX",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "BZ",
+          "name" : "Catholic",
+          "percentage" : 40.1
+        },
+        {
+          "country_code" : "BZ",
+          "name" : "Protestant",
+          "percentage" : 31.5
+        },
+        {
+          "country_code" : "BZ",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "GCA",
+          "name" : "Catholic",
+          "percentage" : 50
+        },
+        {
+          "country_code" : "GCA",
+          "name" : "Protestant",
+          "percentage" : 40
+        },
+        {
+          "country_code" : "GCA",
+          "name" : "Mayan",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Catholic",
+          "percentage" : 44.9
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Protestant",
+          "percentage" : 37.1
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Muslim",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Mormon",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Christian Orthodox",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "ES",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "HN",
+          "name" : "Catholic",
+          "percentage" : 51.4
+        },
+        {
+          "country_code" : "HN",
+          "name" : "Protestant",
+          "percentage" : 36.2
+        },
+        {
+          "country_code" : "NIC",
+          "name" : "Catholic",
+          "percentage" : 50
+        },
+        {
+          "country_code" : "NIC",
+          "name" : "Protestant",
+          "percentage" : 33.2
+        },
+        {
+          "country_code" : "NIC",
+          "name" : "Mormon",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "NIC",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "CR",
+          "name" : "Catholic",
+          "percentage" : 76.3
+        },
+        {
+          "country_code" : "CR",
+          "name" : "Protestant",
+          "percentage" : 14.4
+        },
+        {
+          "country_code" : "CR",
+          "name" : "Buddhist",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "CR",
+          "name" : "Mormon",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "CR",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Catholic",
+          "percentage" : 63.2
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Protestant",
+          "percentage" : 26.3
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Bahai",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Mormon",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "PA",
+          "name" : "Buddhist",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "BS",
+          "name" : "Protestant",
+          "percentage" : 69.9
+        },
+        {
+          "country_code" : "BS",
+          "name" : "Catholic",
+          "percentage" : 12
+        },
+        {
+          "country_code" : "BS",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "BS",
+          "name" : "Hindu",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "TUCA",
+          "name" : "Protestant",
+          "percentage" : 72.8
+        },
+        {
+          "country_code" : "TUCA",
+          "name" : "Catholic",
+          "percentage" : 11.4
+        },
+        {
+          "country_code" : "TUCA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.8
+        },
+        {
+          "country_code" : "CAYM",
+          "name" : "Protestant",
+          "percentage" : 67.8
+        },
+        {
+          "country_code" : "CAYM",
+          "name" : "Catholic",
+          "percentage" : 14.1
+        },
+        {
+          "country_code" : "CAYM",
+          "name" : "Jewish",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "CAYM",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "CAYM",
+          "name" : "Hindu",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "C",
+          "name" : "Catholic",
+          "percentage" : 60
+        },
+        {
+          "country_code" : "C",
+          "name" : "Protestant",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "C",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "JA",
+          "name" : "Protestant",
+          "percentage" : 64.8
+        },
+        {
+          "country_code" : "JA",
+          "name" : "Catholic",
+          "percentage" : 2.2
+        },
+        {
+          "country_code" : "JA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "JA",
+          "name" : "Rastafarian",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "RH",
+          "name" : "Catholic",
+          "percentage" : 54.7
+        },
+        {
+          "country_code" : "RH",
+          "name" : "Protestant",
+          "percentage" : 28.5
+        },
+        {
+          "country_code" : "RH",
+          "name" : "Voodoo",
+          "percentage" : 2.1
+        },
+        {
+          "country_code" : "DOM",
+          "name" : "Catholic",
+          "percentage" : 57
+        },
+        {
+          "country_code" : "DOM",
+          "name" : "Protestant",
+          "percentage" : 23
+        },
+        {
+          "country_code" : "DOM",
+          "name" : "Mormon",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "DOM",
+          "name" : "Buddhist",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "DOM",
+          "name" : "Bahai",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "PR",
+          "name" : "Catholic",
+          "percentage" : 69.7
+        },
+        {
+          "country_code" : "PR",
+          "name" : "Protestant",
+          "percentage" : 25.1
+        },
+        {
+          "country_code" : "PR",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "PR",
+          "name" : "Mormon",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "PR",
+          "name" : "Muslim",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "VIRG",
+          "name" : "Protestant",
+          "percentage" : 65.5
+        },
+        {
+          "country_code" : "VIRG",
+          "name" : "Catholic",
+          "percentage" : 27.1
+        },
+        {
+          "country_code" : "VIRG",
+          "name" : "Hindu",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Protestant",
+          "percentage" : 70.2
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Catholic",
+          "percentage" : 8.9
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 2.5
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Hindu",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Muslim",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "BVI",
+          "name" : "Rastafarian",
+          "percentage" : 0.6
+        },
+        {
+          "country_code" : "AXA",
+          "name" : "Protestant",
+          "percentage" : 73.2
+        },
+        {
+          "country_code" : "AXA",
+          "name" : "Catholic",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "AXA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "AXA",
+          "name" : "Rastafarian",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "AXA",
+          "name" : "Hindu",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "SX",
+          "name" : "Protestant",
+          "percentage" : 43.1
+        },
+        {
+          "country_code" : "SX",
+          "name" : "Catholic",
+          "percentage" : 33.1
+        },
+        {
+          "country_code" : "SX",
+          "name" : "Hindu",
+          "percentage" : 5.2
+        },
+        {
+          "country_code" : "SX",
+          "name" : "Jewish",
+          "percentage" : 3.4
+        },
+        {
+          "country_code" : "SX",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Protestant",
+          "percentage" : 74.4
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Catholic",
+          "percentage" : 6.7
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Rastafarian",
+          "percentage" : 1.6
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Hindu",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "KN",
+          "name" : "Muslim",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "AG",
+          "name" : "Protestant",
+          "percentage" : 68.3
+        },
+        {
+          "country_code" : "AG",
+          "name" : "Catholic",
+          "percentage" : 8.2
+        },
+        {
+          "country_code" : "AG",
+          "name" : "Hindu",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "AG",
+          "name" : "Muslim",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "MNTS",
+          "name" : "Protestant",
+          "percentage" : 67.1
+        },
+        {
+          "country_code" : "MNTS",
+          "name" : "Catholic",
+          "percentage" : 11.6
+        },
+        {
+          "country_code" : "MNTS",
+          "name" : "Rastafarian",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "MNTS",
+          "name" : "Hindu",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "GUAD",
+          "name" : "Catholic",
+          "percentage" : 94
+        },
+        {
+          "country_code" : "GUAD",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "GUAD",
+          "name" : "Protestant",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "GUAD",
+          "name" : "Hindu",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "WD",
+          "name" : "Catholic",
+          "percentage" : 61.4
+        },
+        {
+          "country_code" : "WD",
+          "name" : "Protestant",
+          "percentage" : 28.6
+        },
+        {
+          "country_code" : "WD",
+          "name" : "Bahai",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "WD",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "MART",
+          "name" : "Catholic",
+          "percentage" : 86
+        },
+        {
+          "country_code" : "MART",
+          "name" : "Protestant",
+          "percentage" : 5.6
+        },
+        {
+          "country_code" : "MART",
+          "name" : "Muslim",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "MART",
+          "name" : "Bahai",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "MART",
+          "name" : "Hindu",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "WL",
+          "name" : "Catholic",
+          "percentage" : 61.5
+        },
+        {
+          "country_code" : "WL",
+          "name" : "Protestant",
+          "percentage" : 27.8
+        },
+        {
+          "country_code" : "WL",
+          "name" : "Rastafarian",
+          "percentage" : 1.9
+        },
+        {
+          "country_code" : "WL",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "WL",
+          "name" : "Hindu",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Protestant",
+          "percentage" : 66.4
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Catholic",
+          "percentage" : 3.8
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Rastafarian",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Muslim",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "BDS",
+          "name" : "Hindu",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "WV",
+          "name" : "Protestant",
+          "percentage" : 75
+        },
+        {
+          "country_code" : "WV",
+          "name" : "Catholic",
+          "percentage" : 6.3
+        },
+        {
+          "country_code" : "WV",
+          "name" : "Rastafarian",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "WV",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.8
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Protestant",
+          "percentage" : 49.2
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Catholic",
+          "percentage" : 36
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Rastafarian",
+          "percentage" : 1.1
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Muslim",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "WG",
+          "name" : "Hindu",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Protestant",
+          "percentage" : 32.1
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Catholic",
+          "percentage" : 21.6
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Hindu",
+          "percentage" : 18.2
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Muslim",
+          "percentage" : 5
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.5
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Bahai",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "TT",
+          "name" : "Rastafarian",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "NLB",
+          "name" : "Catholic",
+          "percentage" : 68
+        },
+        {
+          "country_code" : "NLB",
+          "name" : "Protestant",
+          "percentage" : 16
+        },
+        {
+          "country_code" : "CUR",
+          "name" : "Catholic",
+          "percentage" : 72.8
+        },
+        {
+          "country_code" : "CUR",
+          "name" : "Protestant",
+          "percentage" : 14.7
+        },
+        {
+          "country_code" : "CUR",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "ARU",
+          "name" : "Catholic",
+          "percentage" : 75.3
+        },
+        {
+          "country_code" : "ARU",
+          "name" : "Protestant",
+          "percentage" : 4.9
+        },
+        {
+          "country_code" : "ARU",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.7
+        },
+        {
+          "country_code" : "YV",
+          "name" : "Catholic",
+          "percentage" : 71
+        },
+        {
+          "country_code" : "YV",
+          "name" : "Protestant",
+          "percentage" : 17
+        },
+        {
+          "country_code" : "YV",
+          "name" : "Muslim",
+          "percentage" : 0.4
+        },
+        {
+          "country_code" : "YV",
+          "name" : "Mormon",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "YV",
+          "name" : "Buddhist",
+          "percentage" : 0.2
+        },
+        {
+          "country_code" : "GUY",
+          "name" : "Protestant",
+          "percentage" : 34.8
+        },
+        {
+          "country_code" : "GUY",
+          "name" : "Hindu",
+          "percentage" : 24.8
+        },
+        {
+          "country_code" : "GUY",
+          "name" : "Catholic",
+          "percentage" : 7.1
+        },
+        {
+          "country_code" : "GUY",
+          "name" : "Muslim",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "GUY",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.3
+        },
+        {
+          "country_code" : "SME",
+          "name" : "Protestant",
+          "percentage" : 23.6
+        },
+        {
+          "country_code" : "SME",
+          "name" : "Hindu",
+          "percentage" : 22.3
+        },
+        {
+          "country_code" : "SME",
+          "name" : "Catholic",
+          "percentage" : 21.6
+        },
+        {
+          "country_code" : "SME",
+          "name" : "Muslim",
+          "percentage" : 13.8
+        },
+        {
+          "country_code" : "SME",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "FGU",
+          "name" : "Catholic",
+          "percentage" : 76
+        },
+        {
+          "country_code" : "FGU",
+          "name" : "Protestant",
+          "percentage" : 8
+        },
+        {
+          "country_code" : "CO",
+          "name" : "Catholic",
+          "percentage" : 79
+        },
+        {
+          "country_code" : "CO",
+          "name" : "Protestant",
+          "percentage" : 16.7
+        },
+        {
+          "country_code" : "CO",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.8
+        },
+        {
+          "country_code" : "EC",
+          "name" : "Catholic",
+          "percentage" : 74
+        },
+        {
+          "country_code" : "EC",
+          "name" : "Protestant",
+          "percentage" : 10.4
+        },
+        {
+          "country_code" : "EC",
+          "name" : "Mormon",
+          "percentage" : 1.4
+        },
+        {
+          "country_code" : "EC",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "PE",
+          "name" : "Catholic",
+          "percentage" : 76
+        },
+        {
+          "country_code" : "PE",
+          "name" : "Protestant",
+          "percentage" : 17.2
+        },
+        {
+          "country_code" : "PE",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.75
+        },
+        {
+          "country_code" : "PE",
+          "name" : "Mormon",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "BOL",
+          "name" : "Catholic",
+          "percentage" : 73
+        },
+        {
+          "country_code" : "BOL",
+          "name" : "Protestant",
+          "percentage" : 20
+        },
+        {
+          "country_code" : "RCH",
+          "name" : "Catholic",
+          "percentage" : 55
+        },
+        {
+          "country_code" : "RCH",
+          "name" : "Protestant",
+          "percentage" : 18
+        },
+        {
+          "country_code" : "RCH",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Catholic",
+          "percentage" : 62.9
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Protestant",
+          "percentage" : 15.3
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Muslim",
+          "percentage" : 2
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 1.2
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Mormon",
+          "percentage" : 0.9
+        },
+        {
+          "country_code" : "RA",
+          "name" : "Jewish",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "PY",
+          "name" : "Catholic",
+          "percentage" : 88.3
+        },
+        {
+          "country_code" : "PY",
+          "name" : "Protestant",
+          "percentage" : 6.8
+        },
+        {
+          "country_code" : "PY",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.3
+        },
+        {
+          "country_code" : "PY",
+          "name" : "Mormon",
+          "percentage" : 0.24
+        },
+        {
+          "country_code" : "ROU",
+          "name" : "Catholic",
+          "percentage" : 47.1
+        },
+        {
+          "country_code" : "ROU",
+          "name" : "Protestant",
+          "percentage" : 11.1
+        },
+        {
+          "country_code" : "ROU",
+          "name" : "Jewish",
+          "percentage" : 0.5
+        },
+        {
+          "country_code" : "BR",
+          "name" : "Catholic",
+          "percentage" : 65
+        },
+        {
+          "country_code" : "BR",
+          "name" : "Protestant",
+          "percentage" : 22.2
+        },
+        {
+          "country_code" : "BR",
+          "name" : "Jehovas Witnesses",
+          "percentage" : 0.7
+        },
+        {
+          "country_code" : "BR",
+          "name" : "Mormon",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "BR",
+          "name" : "Buddhist",
+          "percentage" : 0.1
+        },
+        {
+          "country_code" : "FALK",
+          "name" : "Protestant",
+          "percentage" : 47
+        },
+        {
+          "country_code" : "FALK",
+          "name" : "Catholic",
+          "percentage" : 10
+        }
+      ]
+    }
+  ]
+}
